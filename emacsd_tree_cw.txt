@@ -1,0 +1,2307 @@
+total 104
+drwx------  14 xxx  staff   448B 10 aoû 18:20 .
+drwxr-xr-x+ 42 xxx  staff   1,3K 14 aoû 19:05 ..
+-rw-------   1 xxx  staff   3,6K 29 jui 17:14 SessionDesktop.el
+-rw-r--r--   1 xxx  staff   588B 10 aoû 18:20 ac-comphist.dat
+drwx------   7 xxx  staff   224B 10 aoû 18:20 auto-save-list
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 elpa
+-rw-r--r--   1 xxx  staff   9,3K 10 aoû 18:20 ido.last
+-rw-r--r--   1 xxx  staff   9,2K 29 jui 17:09 ido.last~
+-rw-------   1 xxx  staff   5,4K 10 aoû 14:53 init.el
+-rw-r--r--   1 xxx  staff   453B  9 nov  2016 init.el.bak
+-rw-------   1 xxx  staff   4,9K  7 aoû  2017 init.el~
+drwxr-xr-x   2 xxx  staff    64B  6 déc  2016 lisp
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 python-mode.el-6.2.1
+drwxr-xr-x   2 xxx  staff    64B  5 aoû  2017 snippets
+
+/Users/xxx/.emacs.d//auto-save-list:
+total 16
+drwx------   7 xxx  staff   224B 10 aoû 18:20 .
+drwx------  14 xxx  staff   448B 10 aoû 18:20 ..
+-rw-------   1 xxx  staff     0B 24 nov  2015 .saves-1846-iMac-CD.local~
+-rw-------   1 xxx  staff    68B 29 nov  2015 .saves-3009-iMac-CD.local~
+-rw-r--r--   1 xxx  staff     0B 21 déc  2016 .saves-596-Hi-Maque.local~
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 .saves-816-iMac-de-Curatelle.local~
+-rw-r--r--   1 xxx  staff     0B 19 sep  2016 .saves-845-Hi-Maque.local~
+
+/Users/xxx/.emacs.d//elpa:
+total 40
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 .
+drwx------  14 xxx  staff   448B 10 aoû 18:20 ..
+drwx--x--x   4 xxx  staff   128B 16 sep  2016 archives
+drwxr-xr-x  10 xxx  staff   320B 16 sep  2016 auto-complete-20160827.649
+-rw-r--r--   1 xxx  staff   103B 16 sep  2016 auto-complete-auctex-readme.txt
+-rw-r--r--   1 xxx  staff   354B 16 sep  2016 auto-complete-readme.txt
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 autothemer-20170112.1324
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 bind-key-20161218.1520
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 concurrent-20161228.1930
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 creamsody-theme-20170222.258
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 ctable-20140304.1659
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 dash-20170727.212
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 deferred-20170531.2135
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 diminish-20170419.1036
+-rw-r--r--   1 xxx  staff   305B  5 déc  2016 dr-racket-like-unicode-readme.txt
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 epc-20140609.2234
+drwxr-xr-x  72 xxx  staff   2,3K  5 déc  2016 geiser-20161202.1657
+drwxr-xr-x  20 xxx  staff   640B  5 aoû  2017 gruvbox-theme-20170730.1820
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 jedi-20160425.2156
+drwxr-xr-x   9 xxx  staff   288B  5 aoû  2017 jedi-core-20170121.610
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 monokai-theme-20170731.504
+drwxr-xr-x   8 xxx  staff   256B 16 sep  2016 popup-20160709.729
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 python-environment-20150310.153
+-rw-r--r--   1 xxx  staff   232B  5 déc  2016 racket-mode-readme.txt
+drwxr-xr-x   8 xxx  staff   256B 25 oct  2016 sml-mode-6.7
+-rw-r--r--   1 xxx  staff   674B 25 oct  2016 sml-mode-readme.txt
+drwxr-xr-x  13 xxx  staff   416B  5 aoû  2017 solarized-theme-20170430.800
+drwxr-xr-x   6 xxx  staff   192B  7 aoû  2017 try-20170226.805
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 use-package-20170710.1234
+drwxr-xr-x   6 xxx  staff   192B  7 aoû  2017 which-key-20170530.526
+drwxr-xr-x   7 xxx  staff   224B  5 aoû  2017 yasnippet-20170723.1530
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 zenburn-theme-20170511.1337
+
+/Users/xxx/.emacs.d//elpa/archives:
+total 0
+drwx--x--x   4 xxx  staff   128B 16 sep  2016 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+drwx--x--x   3 xxx  staff    96B  8 aoû 19:07 gnu
+drwxr-xr-x   3 xxx  staff    96B  8 aoû 19:07 melpa
+
+/Users/xxx/.emacs.d//elpa/archives/gnu:
+total 80
+drwx--x--x  3 xxx  staff    96B  8 aoû 19:07 .
+drwx--x--x  4 xxx  staff   128B 16 sep  2016 ..
+-rw-------  1 xxx  staff    37K  8 aoû 19:07 archive-contents
+
+/Users/xxx/.emacs.d//elpa/archives/melpa:
+total 2464
+drwxr-xr-x  3 xxx  staff    96B  8 aoû 19:07 .
+drwx--x--x  4 xxx  staff   128B 16 sep  2016 ..
+-rw-r--r--  1 xxx  staff   1,2M  8 aoû 19:07 archive-contents
+
+/Users/xxx/.emacs.d//elpa/auto-complete-20160827.649:
+total 392
+drwxr-xr-x  10 xxx  staff   320B 16 sep  2016 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   1,8K 16 sep  2016 auto-complete-autoloads.el
+-rw-r--r--   1 xxx  staff   1,8K 16 sep  2016 auto-complete-autoloads.el~
+-rw-r--r--   1 xxx  staff    20K 16 sep  2016 auto-complete-config.el
+-rw-r--r--   1 xxx  staff    16K 16 sep  2016 auto-complete-config.elc
+-rw-r--r--   1 xxx  staff   170B 16 sep  2016 auto-complete-pkg.el
+-rw-r--r--   1 xxx  staff    73K 16 sep  2016 auto-complete.el
+-rw-r--r--   1 xxx  staff    65K 16 sep  2016 auto-complete.elc
+drwxr-xr-x  34 xxx  staff   1,1K 16 sep  2016 dict
+
+/Users/xxx/.emacs.d//elpa/auto-complete-20160827.649/dict:
+total 584
+drwxr-xr-x  34 xxx  staff   1,1K 16 sep  2016 .
+drwxr-xr-x  10 xxx  staff   320B 16 sep  2016 ..
+-rw-r--r--   1 xxx  staff   448B 16 sep  2016 ada-mode
+-rw-r--r--   1 xxx  staff   701B 16 sep  2016 c++-mode
+-rw-r--r--   1 xxx  staff   385B 16 sep  2016 c-mode
+-rw-r--r--   1 xxx  staff   1,8K 16 sep  2016 caml-mode
+-rw-r--r--   1 xxx  staff   5,5K 16 sep  2016 clojure-mode
+-rw-r--r--   1 xxx  staff   4,2K 16 sep  2016 clojurescript-mode
+-rw-r--r--   1 xxx  staff   2,5K 16 sep  2016 coq-mode
+-rw-r--r--   1 xxx  staff   8,8K 16 sep  2016 css-mode
+-rw-r--r--   1 xxx  staff   2,1K 16 sep  2016 erlang-mode
+-rw-r--r--   1 xxx  staff   235B 16 sep  2016 ess-julia-mode
+-rw-r--r--   1 xxx  staff   154B 16 sep  2016 go-mode
+-rw-r--r--   1 xxx  staff    10K 16 sep  2016 haskell-mode
+-rw-r--r--   1 xxx  staff   379B 16 sep  2016 java-mode
+-rw-r--r--   1 xxx  staff   1,1K 16 sep  2016 js-mode
+-rw-r--r--   1 xxx  staff   235B 16 sep  2016 julia-mode
+-rw-r--r--   1 xxx  staff   107B 16 sep  2016 lua-mode
+-rw-r--r--   1 xxx  staff   392B 16 sep  2016 nim-mode
+-rw-r--r--   1 xxx  staff   1,5K 16 sep  2016 objc-mode
+-rw-r--r--   1 xxx  staff   500B 16 sep  2016 octave-mode
+-rw-r--r--   1 xxx  staff   106K 16 sep  2016 php-mode
+-rw-r--r--   1 xxx  staff   3,0K 16 sep  2016 python-mode
+-rw-r--r--   1 xxx  staff   1,7K 16 sep  2016 qml-mode
+-rw-r--r--   1 xxx  staff   1,1K 16 sep  2016 ruby-mode
+-rw-r--r--   1 xxx  staff    17K 16 sep  2016 scala-mode
+-rw-r--r--   1 xxx  staff   2,0K 16 sep  2016 scheme-mode
+-rw-r--r--   1 xxx  staff    14K 16 sep  2016 sclang-mode
+-rw-r--r--   1 xxx  staff   1,3K 16 sep  2016 sh-mode
+-rw-r--r--   1 xxx  staff   708B 16 sep  2016 swift-mode
+-rw-r--r--   1 xxx  staff   1,6K 16 sep  2016 tcl-mode
+-rw-r--r--   1 xxx  staff   9,3K 16 sep  2016 ts-mode
+-rw-r--r--   1 xxx  staff   1,8K 16 sep  2016 tuareg-mode
+-rw-r--r--   1 xxx  staff   2,3K 16 sep  2016 verilog-mode
+
+/Users/xxx/.emacs.d//elpa/autothemer-20170112.1324:
+total 80
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   1,1K  5 aoû  2017 autothemer-autoloads.el
+-rw-r--r--   1 xxx  staff   257B  5 aoû  2017 autothemer-pkg.el
+-rw-r--r--   1 xxx  staff    11K  5 aoû  2017 autothemer.el
+-rw-r--r--   1 xxx  staff    16K  5 aoû  2017 autothemer.elc
+
+/Users/xxx/.emacs.d//elpa/bind-key-20161218.1520:
+total 72
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   2,2K  5 aoû  2017 bind-key-autoloads.el
+-rw-r--r--   1 xxx  staff   277B  5 aoû  2017 bind-key-pkg.el
+-rw-r--r--   1 xxx  staff    16K  5 aoû  2017 bind-key.el
+-rw-r--r--   1 xxx  staff    10K  5 aoû  2017 bind-key.elc
+
+/Users/xxx/.emacs.d//elpa/concurrent-20161228.1930:
+total 112
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   387B  5 aoû  2017 concurrent-autoloads.el
+-rw-r--r--   1 xxx  staff   345B  5 aoû  2017 concurrent-pkg.el
+-rw-r--r--   1 xxx  staff    18K  5 aoû  2017 concurrent.el
+-rw-r--r--   1 xxx  staff    25K  5 aoû  2017 concurrent.elc
+
+/Users/xxx/.emacs.d//elpa/creamsody-theme-20170222.258:
+total 352
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   625B  5 aoû  2017 creamsody-theme-autoloads.el
+-rw-r--r--   1 xxx  staff   248B  5 aoû  2017 creamsody-theme-pkg.el
+-rw-r--r--   1 xxx  staff    85K  5 aoû  2017 creamsody-theme.el
+-rw-r--r--   1 xxx  staff    79K  5 aoû  2017 creamsody-theme.elc
+
+/Users/xxx/.emacs.d//elpa/ctable-20140304.1659:
+total 432
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   375B  5 aoû  2017 ctable-autoloads.el
+-rw-r--r--   1 xxx  staff   231B  5 aoû  2017 ctable-pkg.el
+-rw-r--r--   1 xxx  staff    72K  5 aoû  2017 ctable.el
+-rw-r--r--   1 xxx  staff   135K  5 aoû  2017 ctable.elc
+
+/Users/xxx/.emacs.d//elpa/dash-20170727.212:
+total 368
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   369B  5 aoû  2017 dash-autoloads.el
+-rw-r--r--   1 xxx  staff   181B  5 aoû  2017 dash-pkg.el
+-rw-r--r--   1 xxx  staff    87K  5 aoû  2017 dash.el
+-rw-r--r--   1 xxx  staff    86K  5 aoû  2017 dash.elc
+
+/Users/xxx/.emacs.d//elpa/deferred-20170531.2135:
+total 168
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   381B  5 aoû  2017 deferred-autoloads.el
+-rw-r--r--   1 xxx  staff   273B  5 aoû  2017 deferred-pkg.el
+-rw-r--r--   1 xxx  staff    35K  5 aoû  2017 deferred.el
+-rw-r--r--   1 xxx  staff    38K  5 aoû  2017 deferred.elc
+
+/Users/xxx/.emacs.d//elpa/diminish-20170419.1036:
+total 64
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   2,3K  5 aoû  2017 diminish-autoloads.el
+-rw-r--r--   1 xxx  staff   294B  5 aoû  2017 diminish-pkg.el
+-rw-r--r--   1 xxx  staff    14K  5 aoû  2017 diminish.el
+-rw-r--r--   1 xxx  staff   4,5K  5 aoû  2017 diminish.elc
+
+/Users/xxx/.emacs.d//elpa/epc-20140609.2234:
+total 240
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   397B  5 aoû  2017 epc-autoloads.el
+-rw-r--r--   1 xxx  staff   244B  5 aoû  2017 epc-pkg.el
+-rw-r--r--   1 xxx  staff    34K  5 aoû  2017 epc.el
+-rw-r--r--   1 xxx  staff    54K  5 aoû  2017 epc.elc
+-rw-r--r--   1 xxx  staff   5,7K  5 aoû  2017 epcs.el
+-rw-r--r--   1 xxx  staff   9,9K  5 aoû  2017 epcs.elc
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657:
+total 1664
+drwxr-xr-x  72 xxx  staff   2,3K  5 déc  2016 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 bin
+-rw-r--r--   1 xxx  staff   618B  5 déc  2016 dir
+-rw-r--r--   1 xxx  staff   8,3K  5 déc  2016 geiser-autodoc.el
+-rw-r--r--   1 xxx  staff   9,8K  5 déc  2016 geiser-autodoc.elc
+-rw-r--r--   1 xxx  staff   4,3K  5 déc  2016 geiser-autoloads.el
+-rw-r--r--   1 xxx  staff   284B  5 déc  2016 geiser-autoloads.el~
+-rw-r--r--   1 xxx  staff   2,5K  5 déc  2016 geiser-base.el
+-rw-r--r--   1 xxx  staff   2,7K  5 déc  2016 geiser-base.elc
+-rw-r--r--   1 xxx  staff   4,0K  5 déc  2016 geiser-chez.el
+-rw-r--r--   1 xxx  staff   3,9K  5 déc  2016 geiser-chez.elc
+-rw-r--r--   1 xxx  staff   4,0K  5 déc  2016 geiser-chibi.el
+-rw-r--r--   1 xxx  staff   3,9K  5 déc  2016 geiser-chibi.elc
+-rw-r--r--   1 xxx  staff    10K  5 déc  2016 geiser-chicken.el
+-rw-r--r--   1 xxx  staff    10K  5 déc  2016 geiser-chicken.elc
+-rw-r--r--   1 xxx  staff   4,7K  5 déc  2016 geiser-company.el
+-rw-r--r--   1 xxx  staff   4,3K  5 déc  2016 geiser-company.elc
+-rw-r--r--   1 xxx  staff   2,5K  5 déc  2016 geiser-compile.el
+-rw-r--r--   1 xxx  staff   2,6K  5 déc  2016 geiser-compile.elc
+-rw-r--r--   1 xxx  staff   6,9K  5 déc  2016 geiser-completion.el
+-rw-r--r--   1 xxx  staff   8,7K  5 déc  2016 geiser-completion.elc
+-rw-r--r--   1 xxx  staff   9,0K  5 déc  2016 geiser-connection.el
+-rw-r--r--   1 xxx  staff    11K  5 déc  2016 geiser-connection.elc
+-rw-r--r--   1 xxx  staff   2,0K  5 déc  2016 geiser-custom.el
+-rw-r--r--   1 xxx  staff   2,1K  5 déc  2016 geiser-custom.elc
+-rw-r--r--   1 xxx  staff   7,2K  5 déc  2016 geiser-debug.el
+-rw-r--r--   1 xxx  staff    10K  5 déc  2016 geiser-debug.elc
+-rw-r--r--   1 xxx  staff    17K  5 déc  2016 geiser-doc.el
+-rw-r--r--   1 xxx  staff    23K  5 déc  2016 geiser-doc.elc
+-rw-r--r--   1 xxx  staff   9,2K  5 déc  2016 geiser-edit.el
+-rw-r--r--   1 xxx  staff    10K  5 déc  2016 geiser-edit.elc
+-rw-r--r--   1 xxx  staff   7,2K  5 déc  2016 geiser-eval.el
+-rw-r--r--   1 xxx  staff    10K  5 déc  2016 geiser-eval.elc
+-rw-r--r--   1 xxx  staff    14K  5 déc  2016 geiser-guile.el
+-rw-r--r--   1 xxx  staff    14K  5 déc  2016 geiser-guile.elc
+-rw-r--r--   1 xxx  staff   4,0K  5 déc  2016 geiser-image.el
+-rw-r--r--   1 xxx  staff   4,3K  5 déc  2016 geiser-image.elc
+-rw-r--r--   1 xxx  staff    13K  5 déc  2016 geiser-impl.el
+-rw-r--r--   1 xxx  staff    14K  5 déc  2016 geiser-impl.elc
+-rw-r--r--   1 xxx  staff   3,0K  5 déc  2016 geiser-log.el
+-rw-r--r--   1 xxx  staff   5,7K  5 déc  2016 geiser-log.elc
+-rw-r--r--   1 xxx  staff   5,4K  5 déc  2016 geiser-menu.el
+-rw-r--r--   1 xxx  staff   4,6K  5 déc  2016 geiser-menu.elc
+-rw-r--r--   1 xxx  staff   5,3K  5 déc  2016 geiser-mit.el
+-rw-r--r--   1 xxx  staff   4,9K  5 déc  2016 geiser-mit.elc
+-rw-r--r--   1 xxx  staff    14K  5 déc  2016 geiser-mode.el
+-rw-r--r--   1 xxx  staff    18K  5 déc  2016 geiser-mode.elc
+-rw-r--r--   1 xxx  staff   176B  5 déc  2016 geiser-pkg.el
+-rw-r--r--   1 xxx  staff   2,3K  5 déc  2016 geiser-popup.el
+-rw-r--r--   1 xxx  staff   2,1K  5 déc  2016 geiser-popup.elc
+-rw-r--r--   1 xxx  staff    14K  5 déc  2016 geiser-racket.el
+-rw-r--r--   1 xxx  staff    15K  5 déc  2016 geiser-racket.elc
+-rw-r--r--   1 xxx  staff   2,5K  5 déc  2016 geiser-reload.el
+-rw-r--r--   1 xxx  staff   2,4K  5 déc  2016 geiser-reload.elc
+-rw-r--r--   1 xxx  staff    32K  5 déc  2016 geiser-repl.el
+-rw-r--r--   1 xxx  staff    38K  5 déc  2016 geiser-repl.elc
+-rw-r--r--   1 xxx  staff    17K  5 déc  2016 geiser-syntax.el
+-rw-r--r--   1 xxx  staff    20K  5 déc  2016 geiser-syntax.elc
+-rw-r--r--   1 xxx  staff   4,5K  5 déc  2016 geiser-table.el
+-rw-r--r--   1 xxx  staff   3,7K  5 déc  2016 geiser-table.elc
+-rw-r--r--   1 xxx  staff   583B  5 déc  2016 geiser-version.el
+-rw-r--r--   1 xxx  staff   665B  5 déc  2016 geiser-version.elc
+-rw-r--r--   1 xxx  staff   5,5K  5 déc  2016 geiser-xref.el
+-rw-r--r--   1 xxx  staff   7,5K  5 déc  2016 geiser-xref.elc
+-rw-r--r--   1 xxx  staff   4,5K  5 déc  2016 geiser.el
+-rw-r--r--   1 xxx  staff   4,1K  5 déc  2016 geiser.elc
+-rw-r--r--   1 xxx  staff    84K  5 déc  2016 geiser.info
+-rw-r--r--   1 xxx  staff   103B  5 déc  2016 macros.info
+drwxr-xr-x   8 xxx  staff   256B  5 déc  2016 scheme
+-rw-r--r--   1 xxx  staff   1,0K  5 déc  2016 top.info
+-rw-r--r--   1 xxx  staff    82K  5 déc  2016 web.info
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/bin:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  72 xxx  staff   2,3K  5 déc  2016 ..
+-rwxr-xr-x   1 xxx  staff   718B  5 déc  2016 geiser-racket.sh
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme:
+total 0
+drwxr-xr-x   8 xxx  staff   256B  5 déc  2016 .
+drwxr-xr-x  72 xxx  staff   2,3K  5 déc  2016 ..
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 chez
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 chibi
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 chicken
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 guile
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 mit
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 racket
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chez:
+total 0
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chez/geiser:
+total 8
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--  1 xxx  staff   3,6K  5 déc  2016 geiser.ss
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chibi:
+total 0
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  4 xxx  staff   128B  5 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chibi/geiser:
+total 16
+drwxr-xr-x  4 xxx  staff   128B  5 déc  2016 .
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--  1 xxx  staff   3,0K  5 déc  2016 geiser.scm
+-rw-r--r--  1 xxx  staff   319B  5 déc  2016 geiser.sld
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chicken:
+total 0
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/chicken/geiser:
+total 64
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--  1 xxx  staff    28K  5 déc  2016 emacs.scm
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/guile:
+total 0
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x  8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  9 xxx  staff   288B  5 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/guile/geiser:
+total 80
+drwxr-xr-x  9 xxx  staff   288B  5 déc  2016 .
+drwxr-xr-x  3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--  1 xxx  staff   1,0K  5 déc  2016 completion.scm
+-rw-r--r--  1 xxx  staff   9,4K  5 déc  2016 doc.scm
+-rw-r--r--  1 xxx  staff   2,0K  5 déc  2016 emacs.scm
+-rw-r--r--  1 xxx  staff   5,1K  5 déc  2016 evaluation.scm
+-rw-r--r--  1 xxx  staff   2,6K  5 déc  2016 modules.scm
+-rw-r--r--  1 xxx  staff   1,6K  5 déc  2016 utils.scm
+-rw-r--r--  1 xxx  staff   2,9K  5 déc  2016 xref.scm
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/mit:
+total 0
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x   8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  18 xxx  staff   576B  6 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/mit/geiser:
+total 320
+drwxr-xr-x  18 xxx  staff   576B  6 déc  2016 .
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--   1 xxx  staff   214B  5 déc  2016 compile.scm
+-rw-r--r--   1 xxx  staff    26K  6 déc  2016 emacs.bci
+-rw-r--r--   1 xxx  staff    28K  6 déc  2016 emacs.bin
+-rw-r--r--   1 xxx  staff    25K  6 déc  2016 emacs.com
+-rw-r--r--   1 xxx  staff   9,7K  5 déc  2016 emacs.scm
+-rw-r--r--   1 xxx  staff   1,7K  6 déc  2016 geiser-os2.crf
+-rw-r--r--   1 xxx  staff   7,4K  6 déc  2016 geiser-os2.fre
+-rw-r--r--   1 xxx  staff   2,9K  6 déc  2016 geiser-os2.pkd
+-rw-r--r--   1 xxx  staff   1,7K  6 déc  2016 geiser-unx.crf
+-rw-r--r--   1 xxx  staff   7,4K  6 déc  2016 geiser-unx.fre
+-rw-r--r--   1 xxx  staff   2,9K  6 déc  2016 geiser-unx.pkd
+-rw-r--r--   1 xxx  staff   1,7K  6 déc  2016 geiser-w32.crf
+-rw-r--r--   1 xxx  staff   7,4K  6 déc  2016 geiser-w32.fre
+-rw-r--r--   1 xxx  staff   2,9K  6 déc  2016 geiser-w32.pkd
+-rw-r--r--   1 xxx  staff   542B  5 déc  2016 geiser.pkg
+-rw-r--r--   1 xxx  staff   262B  5 déc  2016 load.scm
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/racket:
+total 0
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 .
+drwxr-xr-x   8 xxx  staff   256B  5 déc  2016 ..
+drwxr-xr-x  14 xxx  staff   448B  5 déc  2016 geiser
+
+/Users/xxx/.emacs.d//elpa/geiser-20161202.1657/scheme/racket/geiser:
+total 136
+drwxr-xr-x  14 xxx  staff   448B  5 déc  2016 .
+drwxr-xr-x   3 xxx  staff    96B  5 déc  2016 ..
+-rw-r--r--   1 xxx  staff    12K  5 déc  2016 autodoc.rkt
+-rw-r--r--   1 xxx  staff   884B  5 déc  2016 completions.rkt
+-rw-r--r--   1 xxx  staff   5,9K  5 déc  2016 enter.rkt
+-rw-r--r--   1 xxx  staff   2,4K  5 déc  2016 eval.rkt
+-rw-r--r--   1 xxx  staff   2,4K  5 déc  2016 images.rkt
+-rw-r--r--   1 xxx  staff   1,7K  5 déc  2016 locations.rkt
+-rw-r--r--   1 xxx  staff   1,7K  5 déc  2016 main.rkt
+-rw-r--r--   1 xxx  staff   7,2K  5 déc  2016 modules.rkt
+-rw-r--r--   1 xxx  staff   447B  5 déc  2016 server.rkt
+-rw-r--r--   1 xxx  staff   467B  5 déc  2016 startup.rkt
+-rw-r--r--   1 xxx  staff   6,1K  5 déc  2016 user.rkt
+-rw-r--r--   1 xxx  staff   801B  5 déc  2016 utils.rkt
+
+/Users/xxx/.emacs.d//elpa/gruvbox-theme-20170730.1820:
+total 640
+drwxr-xr-x  20 xxx  staff   640B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   5,2K  5 aoû  2017 gruvbox-dark-hard-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-dark-hard-theme.elc
+-rw-r--r--   1 xxx  staff   5,2K  5 aoû  2017 gruvbox-dark-medium-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-dark-medium-theme.elc
+-rw-r--r--   1 xxx  staff   5,2K  5 aoû  2017 gruvbox-dark-soft-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-dark-soft-theme.elc
+-rw-r--r--   1 xxx  staff   5,2K  5 aoû  2017 gruvbox-light-hard-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-light-hard-theme.elc
+-rw-r--r--   1 xxx  staff   5,2K  5 aoû  2017 gruvbox-light-medium-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-light-medium-theme.elc
+-rw-r--r--   1 xxx  staff   5,1K  5 aoû  2017 gruvbox-light-soft-theme.el
+-rw-r--r--   1 xxx  staff    28K  5 aoû  2017 gruvbox-light-soft-theme.elc
+-rw-r--r--   1 xxx  staff   2,9K  5 aoû  2017 gruvbox-theme-autoloads.el
+-rw-r--r--   1 xxx  staff   218B  5 aoû  2017 gruvbox-theme-pkg.el
+-rw-r--r--   1 xxx  staff   5,1K  5 aoû  2017 gruvbox-theme.el
+-rw-r--r--   1 xxx  staff    27K  5 aoû  2017 gruvbox-theme.elc
+-rw-r--r--   1 xxx  staff    34K  5 aoû  2017 gruvbox.el
+-rw-r--r--   1 xxx  staff    23K  5 aoû  2017 gruvbox.elc
+
+/Users/xxx/.emacs.d//elpa/jedi-20160425.2156:
+total 32
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   1,1K  5 aoû  2017 jedi-autoloads.el
+-rw-r--r--   1 xxx  staff   217B  5 aoû  2017 jedi-pkg.el
+-rw-r--r--   1 xxx  staff   3,6K  5 aoû  2017 jedi.el
+-rw-r--r--   1 xxx  staff   3,5K  5 aoû  2017 jedi.elc
+
+/Users/xxx/.emacs.d//elpa/jedi-core-20170121.610:
+total 248
+drwxr-xr-x   9 xxx  staff   288B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   4,9K  5 aoû  2017 Makefile
+-rw-r--r--   1 xxx  staff   3,8K  5 aoû  2017 jedi-core-autoloads.el
+-rw-r--r--   1 xxx  staff   227B  5 aoû  2017 jedi-core-pkg.el
+-rw-r--r--   1 xxx  staff    46K  5 aoû  2017 jedi-core.el
+-rw-r--r--   1 xxx  staff    44K  5 aoû  2017 jedi-core.elc
+-rwxr-xr-x   1 xxx  staff   9,5K  5 aoû  2017 jediepcserver.py
+-rw-r--r--   1 xxx  staff   671B  5 aoû  2017 setup.py
+
+/Users/xxx/.emacs.d//elpa/monokai-theme-20170731.504:
+total 504
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   622B  5 aoû  2017 monokai-theme-autoloads.el
+-rw-r--r--   1 xxx  staff   223B  5 aoû  2017 monokai-theme-pkg.el
+-rw-r--r--   1 xxx  staff   240K  5 aoû  2017 monokai-theme.el
+
+/Users/xxx/.emacs.d//elpa/popup-20160709.729:
+total 296
+drwxr-xr-x   8 xxx  staff   256B 16 sep  2016 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   355B 16 sep  2016 popup-autoloads.el
+-rw-r--r--   1 xxx  staff   282B 16 sep  2016 popup-autoloads.el~
+-rw-r--r--   1 xxx  staff   108B 16 sep  2016 popup-pkg.el
+-rw-r--r--   1 xxx  staff   513B 16 sep  2016 popup-pkg.elc
+-rw-r--r--   1 xxx  staff    54K 16 sep  2016 popup.el
+-rw-r--r--   1 xxx  staff    74K 16 sep  2016 popup.elc
+
+/Users/xxx/.emacs.d//elpa/python-environment-20150310.153:
+total 104
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   476B  5 aoû  2017 python-environment-autoloads.el
+-rw-r--r--   1 xxx  staff   199B  5 aoû  2017 python-environment-pkg.el
+-rw-r--r--   1 xxx  staff   9,0K  5 aoû  2017 python-environment.el
+-rw-r--r--   1 xxx  staff   7,8K  5 aoû  2017 python-environment.elc
+-rw-r--r--   1 xxx  staff   7,5K  5 aoû  2017 test-python-environment.el
+-rw-r--r--   1 xxx  staff    15K  5 aoû  2017 test-python-environment.elc
+
+/Users/xxx/.emacs.d//elpa/sml-mode-6.7:
+total 360
+drwxr-xr-x   8 xxx  staff   256B 25 oct  2016 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   1,6K 25 oct  2016 sml-mode-autoloads.el
+-rw-r--r--   1 xxx  staff   288B 25 oct  2016 sml-mode-autoloads.el~
+-rw-r--r--   1 xxx  staff   173B 25 oct  2016 sml-mode-pkg.el
+-rw-r--r--   1 xxx  staff   578B 25 oct  2016 sml-mode-pkg.elc
+-rw-r--r--   1 xxx  staff    72K 25 oct  2016 sml-mode.el
+-rw-r--r--   1 xxx  staff    85K 25 oct  2016 sml-mode.elc
+
+/Users/xxx/.emacs.d//elpa/solarized-theme-20170430.800:
+total 344
+drwxr-xr-x  13 xxx  staff   416B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   178B  5 aoû  2017 solarized-dark-theme.el
+-rw-r--r--   1 xxx  staff   655B  5 aoû  2017 solarized-dark-theme.elc
+-rw-r--r--   1 xxx  staff   183B  5 aoû  2017 solarized-light-theme.el
+-rw-r--r--   1 xxx  staff   659B  5 aoû  2017 solarized-light-theme.elc
+-rw-r--r--   1 xxx  staff   1,0K  5 aoû  2017 solarized-theme-autoloads.el
+-rw-r--r--   1 xxx  staff   204B  5 aoû  2017 solarized-theme-pkg.el
+-rw-r--r--   1 xxx  staff   3,0K  5 aoû  2017 solarized-theme-utils.el
+-rw-r--r--   1 xxx  staff   1,4K  5 aoû  2017 solarized-theme-utils.elc
+-rw-r--r--   1 xxx  staff    48B  5 aoû  2017 solarized-theme.el
+-rw-r--r--   1 xxx  staff   492B  5 aoû  2017 solarized-theme.elc
+-rw-r--r--   1 xxx  staff   129K  5 aoû  2017 solarized.el
+
+/Users/xxx/.emacs.d//elpa/try-20170226.805:
+total 32
+drwxr-xr-x   6 xxx  staff   192B  7 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   722B  7 aoû  2017 try-autoloads.el
+-rw-r--r--   1 xxx  staff   224B  7 aoû  2017 try-pkg.el
+-rw-r--r--   1 xxx  staff   3,7K  7 aoû  2017 try.el
+-rw-r--r--   1 xxx  staff   2,6K  7 aoû  2017 try.elc
+
+/Users/xxx/.emacs.d//elpa/use-package-20170710.1234:
+total 232
+drwxr-xr-x   6 xxx  staff   192B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   3,9K  5 aoû  2017 use-package-autoloads.el
+-rw-r--r--   1 xxx  staff   331B  5 aoû  2017 use-package-pkg.el
+-rw-r--r--   1 xxx  staff    60K  5 aoû  2017 use-package.el
+-rw-r--r--   1 xxx  staff    47K  5 aoû  2017 use-package.elc
+
+/Users/xxx/.emacs.d//elpa/which-key-20170530.526:
+total 384
+drwxr-xr-x   6 xxx  staff   192B  7 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   4,0K  7 aoû  2017 which-key-autoloads.el
+-rw-r--r--   1 xxx  staff   235B  7 aoû  2017 which-key-pkg.el
+-rw-r--r--   1 xxx  staff    97K  7 aoû  2017 which-key.el
+-rw-r--r--   1 xxx  staff    77K  7 aoû  2017 which-key.elc
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530:
+total 824
+drwxr-xr-x   7 xxx  staff   224B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 snippets
+-rw-r--r--   1 xxx  staff   1,7K  5 aoû  2017 yasnippet-autoloads.el
+-rw-r--r--   1 xxx  staff   247B  5 aoû  2017 yasnippet-pkg.el
+-rw-r--r--   1 xxx  staff   199K  5 aoû  2017 yasnippet.el
+-rw-r--r--   1 xxx  staff   204K  5 aoû  2017 yasnippet.elc
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets:
+total 48
+drwxr-xr-x   77 xxx  staff   2,4K  5 aoû  2017 .
+drwxr-xr-x    7 xxx  staff   224B  5 aoû  2017 ..
+-rw-r--r--    1 xxx  staff    29B  5 aoû  2017 .gitignore
+-rw-r--r--    1 xxx  staff     1B  5 aoû  2017 .nosearch
+-rw-r--r--    1 xxx  staff   119B  5 aoû  2017 CONTRIBUTORS.txt
+-rw-r--r--    1 xxx  staff   1,0K  5 aoû  2017 LICENSE
+-rw-r--r--    1 xxx  staff   2,0K  5 aoû  2017 README.md
+drwxr-xr-x    5 xxx  staff   160B  5 aoû  2017 antlr-mode
+drwxr-xr-x   21 xxx  staff   672B  5 aoû  2017 apples-mode
+drwxr-xr-x   21 xxx  staff   672B  5 aoû  2017 applescript-mode
+drwxr-xr-x  148 xxx  staff   4,6K  5 aoû  2017 c++-mode
+drwxr-xr-x   14 xxx  staff   448B  5 aoû  2017 c-mode
+drwxr-xr-x   24 xxx  staff   768B  5 aoû  2017 cc-mode
+drwxr-xr-x   45 xxx  staff   1,4K  5 aoû  2017 chef-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 cider-repl-mode
+drwxr-xr-x   32 xxx  staff   1,0K  5 aoû  2017 clojure-mode
+drwxr-xr-x   15 xxx  staff   480B  5 aoû  2017 cmake-mode
+drwxr-xr-x    4 xxx  staff   128B  5 aoû  2017 conf-unix-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 cperl-mode
+drwxr-xr-x   11 xxx  staff   352B  5 aoû  2017 cpp-omnet-mode
+drwxr-xr-x   19 xxx  staff   608B  5 aoû  2017 csharp-mode
+drwxr-xr-x   24 xxx  staff   768B  5 aoû  2017 css-mode
+drwxr-xr-x   20 xxx  staff   640B  5 aoû  2017 dix-mode
+drwxr-xr-x   27 xxx  staff   864B  5 aoû  2017 elixir-mode
+drwxr-xr-x  158 xxx  staff   4,9K  5 aoû  2017 emacs-lisp-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 enh-ruby-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 ensime-mode
+drwxr-xr-x    4 xxx  staff   128B  5 aoû  2017 erc-mode
+drwxr-xr-x   23 xxx  staff   736B  5 aoû  2017 erlang-mode
+drwxr-xr-x   27 xxx  staff   864B  5 aoû  2017 f90-mode
+drwxr-xr-x   29 xxx  staff   928B  5 aoû  2017 faust-mode
+drwxr-xr-x    5 xxx  staff   160B  5 aoû  2017 git-commit-mode
+drwxr-xr-x   29 xxx  staff   928B  5 aoû  2017 go-mode
+drwxr-xr-x    9 xxx  staff   288B  5 aoû  2017 groovy-mode
+drwxr-xr-x   15 xxx  staff   480B  5 aoû  2017 haskell-mode
+drwxr-xr-x   25 xxx  staff   800B  5 aoû  2017 html-mode
+drwxr-xr-x   35 xxx  staff   1,1K  5 aoû  2017 java-mode
+drwxr-xr-x   22 xxx  staff   704B  5 aoû  2017 js-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 js2-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 js3-mode
+drwxr-xr-x   46 xxx  staff   1,4K  5 aoû  2017 latex-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 lisp-interaction-mode
+drwxr-xr-x   15 xxx  staff   480B  5 aoû  2017 lisp-mode
+drwxr-xr-x   13 xxx  staff   416B  5 aoû  2017 lua-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 m4-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 makefile-automake-mode
+drwxr-xr-x    7 xxx  staff   224B  5 aoû  2017 makefile-bsdmake-mode
+drwxr-xr-x   14 xxx  staff   448B  5 aoû  2017 makefile-gmake-mode
+drwxr-xr-x    4 xxx  staff   128B  5 aoû  2017 makefile-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 malabar-mode
+drwxr-xr-x   25 xxx  staff   800B  5 aoû  2017 markdown-mode
+drwxr-xr-x   10 xxx  staff   320B  5 aoû  2017 ned-mode
+drwxr-xr-x   15 xxx  staff   480B  5 aoû  2017 nesc-mode
+drwxr-xr-x   14 xxx  staff   448B  5 aoû  2017 nix-mode
+drwxr-xr-x   14 xxx  staff   448B  5 aoû  2017 nsis-mode
+drwxr-xr-x   20 xxx  staff   640B  5 aoû  2017 nxml-mode
+drwxr-xr-x    5 xxx  staff   160B  5 aoû  2017 octave-mode
+drwxr-xr-x   12 xxx  staff   384B  5 aoû  2017 org-mode
+drwxr-xr-x   16 xxx  staff   512B  5 aoû  2017 perl-mode
+drwxr-xr-x   10 xxx  staff   320B  5 aoû  2017 prog-mode
+drwxr-xr-x    4 xxx  staff   128B  5 aoû  2017 protobuf-mode
+drwxr-xr-x   89 xxx  staff   2,8K  5 aoû  2017 python-mode
+-rwxr-xr-x    1 xxx  staff   813B  5 aoû  2017 rename_add_contr.py
+drwxr-xr-x   25 xxx  staff   800B  5 aoû  2017 rst-mode
+drwxr-xr-x   60 xxx  staff   1,9K  5 aoû  2017 ruby-mode
+drwxr-xr-x   46 xxx  staff   1,4K  5 aoû  2017 rust-mode
+drwxr-xr-x   18 xxx  staff   576B  5 aoû  2017 scala-mode
+drwxr-xr-x   10 xxx  staff   320B  5 aoû  2017 sh-mode
+drwxr-xr-x    8 xxx  staff   256B  5 aoû  2017 snippet-mode
+drwxr-xr-x    9 xxx  staff   288B  5 aoû  2017 sql-mode
+drwxr-xr-x    4 xxx  staff   128B  5 aoû  2017 terraform-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 text-mode
+drwxr-xr-x   22 xxx  staff   704B  5 aoû  2017 tuareg-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 typerex-mode
+drwxr-xr-x    8 xxx  staff   256B  5 aoû  2017 udev-mode
+drwxr-xr-x    3 xxx  staff    96B  5 aoû  2017 web-mode
+drwxr-xr-x    5 xxx  staff   160B  5 aoû  2017 yaml-mode
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/antlr-mode:
+total 24
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   138B  5 aoû  2017 project
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 property
+-rw-r--r--   1 xxx  staff   118B  5 aoû  2017 target
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/apples-mode:
+total 152
+drwxr-xr-x  21 xxx  staff   672B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    53B  5 aoû  2017 comment
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 considering
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 considering-application-responses
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 display-dialog
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 ignoring
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 ignoring-application-responses
+-rw-r--r--   1 xxx  staff    55B  5 aoû  2017 on
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 repeat
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 repeat-until
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 repeat-while
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 repeat-with
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 tell-application
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 tell-application-to-activate
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 using-terms-from-application
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 with-timeout-of-seconds
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 with-transaction
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/applescript-mode:
+total 152
+drwxr-xr-x  21 xxx  staff   672B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    53B  5 aoû  2017 comment
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 considering
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 considering-application-responses
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 display-dialog
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 ignoring
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 ignoring-application-responses
+-rw-r--r--   1 xxx  staff    55B  5 aoû  2017 on
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 repeat
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 repeat-until
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 repeat-while
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 repeat-with
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 tell-application
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 tell-application-to-activate
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 using-terms-from-application
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 with-timeout-of-seconds
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 with-transaction
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/c++-mode:
+total 1168
+drwxr-xr-x  148 xxx  staff   4,6K  5 aoû  2017 .
+drwxr-xr-x   77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--    1 xxx  staff     8B  5 aoû  2017 .yas-parents
+-rw-r--r--    1 xxx  staff   443B  5 aoû  2017 .yas-setup.el
+-rw-r--r--    1 xxx  staff   921B  5 aoû  2017 .yas-setup.elc
+-rw-r--r--    1 xxx  staff   163B  5 aoû  2017 acl
+-rw-r--r--    1 xxx  staff   135B  5 aoû  2017 acm
+-rw-r--r--    1 xxx  staff   172B  5 aoû  2017 ajf
+-rw-r--r--    1 xxx  staff   143B  5 aoû  2017 alo
+-rw-r--r--    1 xxx  staff   143B  5 aoû  2017 ano
+-rw-r--r--    1 xxx  staff    66B  5 aoû  2017 assert
+-rw-r--r--    1 xxx  staff    95B  5 aoû  2017 beginend
+-rw-r--r--    1 xxx  staff   112B  5 aoû  2017 boost_require
+-rw-r--r--    1 xxx  staff    65B  5 aoû  2017 cerr
+-rw-r--r--    1 xxx  staff    62B  5 aoû  2017 cin
+-rw-r--r--    1 xxx  staff   187B  5 aoû  2017 class
+-rw-r--r--    1 xxx  staff   1,9K  5 aoû  2017 class11
+-rw-r--r--    1 xxx  staff   143B  5 aoû  2017 cni
+-rw-r--r--    1 xxx  staff   124B  5 aoû  2017 cnt
+-rw-r--r--    1 xxx  staff   120B  5 aoû  2017 const_[]
+-rw-r--r--    1 xxx  staff   117B  5 aoû  2017 constructor
+-rw-r--r--    1 xxx  staff   245B  5 aoû  2017 cout
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 cpb
+-rw-r--r--    1 xxx  staff   148B  5 aoû  2017 cpi
+-rw-r--r--    1 xxx  staff   117B  5 aoû  2017 cpn
+-rw-r--r--    1 xxx  staff   137B  5 aoû  2017 cpp
+-rw-r--r--    1 xxx  staff   125B  5 aoû  2017 cpy
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 cstd
+-rw-r--r--    1 xxx  staff    94B  5 aoû  2017 d+=
+-rw-r--r--    1 xxx  staff   126B  5 aoû  2017 d_operator
+-rw-r--r--    1 xxx  staff    97B  5 aoû  2017 d_operator[]
+-rw-r--r--    1 xxx  staff   116B  5 aoû  2017 d_operator[]_const
+-rw-r--r--    1 xxx  staff   126B  5 aoû  2017 d_operator_istream
+-rw-r--r--    1 xxx  staff   126B  5 aoû  2017 d_operator_ostream
+-rw-r--r--    1 xxx  staff    74B  5 aoû  2017 delete
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 delete[]
+-rw-r--r--    1 xxx  staff    65B  5 aoû  2017 doc
+-rw-r--r--    1 xxx  staff   103B  5 aoû  2017 dynamic_casting
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 enum
+-rw-r--r--    1 xxx  staff   140B  5 aoû  2017 eql
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 erm
+-rw-r--r--    1 xxx  staff   204B  5 aoû  2017 ffo
+-rw-r--r--    1 xxx  staff   113B  5 aoû  2017 fil
+-rw-r--r--    1 xxx  staff   184B  5 aoû  2017 fin
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 fixture
+-rw-r--r--    1 xxx  staff   107B  5 aoû  2017 fln
+-rw-r--r--    1 xxx  staff   158B  5 aoû  2017 fnd
+-rw-r--r--    1 xxx  staff   199B  5 aoû  2017 fne
+-rw-r--r--    1 xxx  staff   177B  5 aoû  2017 fni
+-rw-r--r--    1 xxx  staff   129B  5 aoû  2017 fori
+-rw-r--r--    1 xxx  staff   134B  5 aoû  2017 fre
+-rw-r--r--    1 xxx  staff    64B  5 aoû  2017 friend
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 fun_declaration
+-rw-r--r--    1 xxx  staff   128B  5 aoû  2017 gnn
+-rw-r--r--    1 xxx  staff   134B  5 aoû  2017 gnr
+-rw-r--r--    1 xxx  staff    97B  5 aoû  2017 gtest
+-rw-r--r--    1 xxx  staff   130B  5 aoû  2017 ignore
+-rw-r--r--    1 xxx  staff   128B  5 aoû  2017 ihp
+-rw-r--r--    1 xxx  staff   172B  5 aoû  2017 ihu
+-rw-r--r--    1 xxx  staff    63B  5 aoû  2017 inline
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 io
+-rw-r--r--    1 xxx  staff   158B  5 aoû  2017 ipr
+-rw-r--r--    1 xxx  staff   159B  5 aoû  2017 ipt
+-rw-r--r--    1 xxx  staff   132B  5 aoû  2017 iss
+-rw-r--r--    1 xxx  staff   176B  5 aoû  2017 isu
+-rw-r--r--    1 xxx  staff   113B  5 aoû  2017 ita
+-rw-r--r--    1 xxx  staff   106B  5 aoû  2017 iterator
+-rw-r--r--    1 xxx  staff   119B  5 aoû  2017 ltr
+-rw-r--r--    1 xxx  staff   174B  5 aoû  2017 lwr
+-rw-r--r--    1 xxx  staff   187B  5 aoû  2017 lxc
+-rw-r--r--    1 xxx  staff    84B  5 aoû  2017 map
+-rw-r--r--    1 xxx  staff   132B  5 aoû  2017 member_function
+-rw-r--r--    1 xxx  staff   119B  5 aoû  2017 mkh
+-rw-r--r--    1 xxx  staff   143B  5 aoû  2017 mme
+-rw-r--r--    1 xxx  staff   134B  5 aoû  2017 mne
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 module
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 mpb
+-rw-r--r--    1 xxx  staff   157B  5 aoû  2017 mrg
+-rw-r--r--    1 xxx  staff   204B  5 aoû  2017 msm
+-rw-r--r--    1 xxx  staff   134B  5 aoû  2017 mxe
+-rw-r--r--    1 xxx  staff   124B  5 aoû  2017 namespace
+-rw-r--r--    1 xxx  staff   145B  5 aoû  2017 nno
+-rw-r--r--    1 xxx  staff    47B  5 aoû  2017 ns
+-rw-r--r--    1 xxx  staff   137B  5 aoû  2017 nth
+-rw-r--r--    1 xxx  staff   146B  5 aoû  2017 nxp
+-rw-r--r--    1 xxx  staff   158B  5 aoû  2017 oit
+-rw-r--r--    1 xxx  staff   174B  5 aoû  2017 operator!=
+-rw-r--r--    1 xxx  staff   196B  5 aoû  2017 operator+
+-rw-r--r--    1 xxx  staff   161B  5 aoû  2017 operator+=
+-rw-r--r--    1 xxx  staff   271B  5 aoû  2017 operator=
+-rw-r--r--    1 xxx  staff   152B  5 aoû  2017 operator==
+-rw-r--r--    1 xxx  staff   140B  5 aoû  2017 operator[]
+-rw-r--r--    1 xxx  staff   185B  5 aoû  2017 operator_istream
+-rw-r--r--    1 xxx  staff   192B  5 aoû  2017 operator_ostream
+-rw-r--r--    1 xxx  staff    73B  5 aoû  2017 ostream
+-rw-r--r--    1 xxx  staff    99B  5 aoû  2017 pack
+-rw-r--r--    1 xxx  staff   119B  5 aoû  2017 phh
+-rw-r--r--    1 xxx  staff   193B  5 aoû  2017 ppt
+-rw-r--r--    1 xxx  staff   126B  5 aoû  2017 private
+-rw-r--r--    1 xxx  staff   130B  5 aoû  2017 protected
+-rw-r--r--    1 xxx  staff   146B  5 aoû  2017 prp
+-rw-r--r--    1 xxx  staff   183B  5 aoû  2017 psc
+-rw-r--r--    1 xxx  staff   139B  5 aoû  2017 pst
+-rw-r--r--    1 xxx  staff   177B  5 aoû  2017 ptc
+-rw-r--r--    1 xxx  staff   181B  5 aoû  2017 ptn
+-rw-r--r--    1 xxx  staff   124B  5 aoû  2017 public
+-rw-r--r--    1 xxx  staff   170B  5 aoû  2017 rci
+-rw-r--r--    1 xxx  staff   145B  5 aoû  2017 rmc
+-rw-r--r--    1 xxx  staff   166B  5 aoû  2017 rmf
+-rw-r--r--    1 xxx  staff   181B  5 aoû  2017 rmi
+-rw-r--r--    1 xxx  staff   162B  5 aoû  2017 rmv
+-rw-r--r--    1 xxx  staff   149B  5 aoû  2017 rpc
+-rw-r--r--    1 xxx  staff   140B  5 aoû  2017 rpi
+-rw-r--r--    1 xxx  staff   123B  5 aoû  2017 rpl
+-rw-r--r--    1 xxx  staff   157B  5 aoû  2017 rtc
+-rw-r--r--    1 xxx  staff   129B  5 aoû  2017 rte
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 rvc
+-rw-r--r--    1 xxx  staff   115B  5 aoû  2017 rvr
+-rw-r--r--    1 xxx  staff   129B  5 aoû  2017 shf
+-rw-r--r--    1 xxx  staff   194B  5 aoû  2017 spt
+-rw-r--r--    1 xxx  staff   190B  5 aoû  2017 srh
+-rw-r--r--    1 xxx  staff   168B  5 aoû  2017 srn
+-rw-r--r--    1 xxx  staff   109B  5 aoû  2017 srt
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 sstream
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 std
+-rw-r--r--    1 xxx  staff    60B  5 aoû  2017 std_colon
+-rw-r--r--    1 xxx  staff   119B  5 aoû  2017 sth
+-rw-r--r--    1 xxx  staff    67B  5 aoû  2017 sti
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 sto
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 str
+-rw-r--r--    1 xxx  staff   123B  5 aoû  2017 sts
+-rw-r--r--    1 xxx  staff    77B  5 aoû  2017 stv
+-rw-r--r--    1 xxx  staff   139B  5 aoû  2017 swr
+-rw-r--r--    1 xxx  staff   125B  5 aoû  2017 template
+-rw-r--r--    1 xxx  staff   127B  5 aoû  2017 test case
+-rw-r--r--    1 xxx  staff   193B  5 aoû  2017 test_main
+-rw-r--r--    1 xxx  staff   149B  5 aoû  2017 test_suite
+-rw-r--r--    1 xxx  staff   153B  5 aoû  2017 tfm
+-rw-r--r--    1 xxx  staff    56B  5 aoû  2017 this
+-rw-r--r--    1 xxx  staff    79B  5 aoû  2017 throw
+-rw-r--r--    1 xxx  staff   120B  5 aoû  2017 trm
+-rw-r--r--    1 xxx  staff   152B  5 aoû  2017 try
+-rw-r--r--    1 xxx  staff   133B  5 aoû  2017 tryw
+-rw-r--r--    1 xxx  staff   173B  5 aoû  2017 ucp
+-rw-r--r--    1 xxx  staff   178B  5 aoû  2017 upr
+-rw-r--r--    1 xxx  staff   124B  5 aoû  2017 uqe
+-rw-r--r--    1 xxx  staff    73B  5 aoû  2017 using
+-rw-r--r--    1 xxx  staff   110B  5 aoû  2017 vector
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/c-mode:
+total 96
+drwxr-xr-x  14 xxx  staff   448B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     8B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 assert
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 compile
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 define
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 malloc
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 packed
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 printf
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 stdio
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 stdlib
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 string
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 union
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 unistd
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/cc-mode:
+total 176
+drwxr-xr-x  24 xxx  staff   768B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   209B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 do
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 else
+-rw-r--r--   1 xxx  staff   276B  5 aoû  2017 file_description
+-rw-r--r--   1 xxx  staff   117B  5 aoû  2017 fopen
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   148B  5 aoû  2017 for_n
+-rw-r--r--   1 xxx  staff   272B  5 aoû  2017 function_description
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 ifdef
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 inc
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 inc.1
+-rw-r--r--   1 xxx  staff   117B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 math
+-rw-r--r--   1 xxx  staff   180B  5 aoû  2017 member_description
+-rw-r--r--   1 xxx  staff   194B  5 aoû  2017 once
+-rw-r--r--   1 xxx  staff   176B  5 aoû  2017 printf
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 struct
+-rw-r--r--   1 xxx  staff   230B  5 aoû  2017 switch
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 ternary
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 typedef
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 while
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/chef-mode:
+total 344
+drwxr-xr-x  45 xxx  staff   1,4K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 action
+-rw-r--r--   1 xxx  staff   219B  5 aoû  2017 bash
+-rw-r--r--   1 xxx  staff   196B  5 aoû  2017 cookbook_file
+-rw-r--r--   1 xxx  staff   139B  5 aoû  2017 cron
+-rw-r--r--   1 xxx  staff   302B  5 aoû  2017 cronf
+-rw-r--r--   1 xxx  staff   594B  5 aoû  2017 deploy
+-rw-r--r--   1 xxx  staff   155B  5 aoû  2017 directory
+-rw-r--r--   1 xxx  staff   225B  5 aoû  2017 directoryf
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 env
+-rw-r--r--   1 xxx  staff   162B  5 aoû  2017 execute
+-rw-r--r--   1 xxx  staff   374B  5 aoû  2017 executef
+-rw-r--r--   1 xxx  staff   139B  5 aoû  2017 file
+-rw-r--r--   1 xxx  staff   226B  5 aoû  2017 filef
+-rw-r--r--   1 xxx  staff   244B  5 aoû  2017 git
+-rw-r--r--   1 xxx  staff   147B  5 aoû  2017 group
+-rw-r--r--   1 xxx  staff   150B  5 aoû  2017 http_request
+-rw-r--r--   1 xxx  staff   254B  5 aoû  2017 http_requestp
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 ignore_failure
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 inc
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 link
+-rw-r--r--   1 xxx  staff   177B  5 aoû  2017 linkf
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 log
+-rw-r--r--   1 xxx  staff   176B  5 aoû  2017 machine
+-rw-r--r--   1 xxx  staff   331B  5 aoû  2017 meta
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 not_if
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 notifies
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 only_if
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 pac
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 pak
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 provider
+-rw-r--r--   1 xxx  staff   160B  5 aoû  2017 python
+-rw-r--r--   1 xxx  staff   253B  5 aoû  2017 remote_file
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 retries
+-rw-r--r--   1 xxx  staff   235B  5 aoû  2017 role
+-rw-r--r--   1 xxx  staff   175B  5 aoû  2017 ruby
+-rw-r--r--   1 xxx  staff   244B  5 aoû  2017 script
+-rw-r--r--   1 xxx  staff   201B  5 aoû  2017 service
+-rw-r--r--   1 xxx  staff   224B  5 aoû  2017 servicep
+-rw-r--r--   1 xxx  staff   118B  5 aoû  2017 subscribes
+-rw-r--r--   1 xxx  staff   139B  5 aoû  2017 supports
+-rw-r--r--   1 xxx  staff   161B  5 aoû  2017 template
+-rw-r--r--   1 xxx  staff   227B  5 aoû  2017 templatev
+-rw-r--r--   1 xxx  staff   312B  5 aoû  2017 user
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/cider-repl-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    13B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/clojure-mode:
+total 240
+drwxr-xr-x  32 xxx  staff   1,0K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 bench
+-rw-r--r--   1 xxx  staff    45B  5 aoû  2017 bp
+-rw-r--r--   1 xxx  staff    37B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 defm
+-rw-r--r--   1 xxx  staff    65B  5 aoû  2017 defn
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 defr
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 deft
+-rw-r--r--   1 xxx  staff    57B  5 aoû  2017 doseq
+-rw-r--r--   1 xxx  staff    43B  5 aoû  2017 fn
+-rw-r--r--   1 xxx  staff    49B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 ifl
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff    65B  5 aoû  2017 is
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 let
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 map
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 map.lambda
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 mdoc
+-rw-r--r--   1 xxx  staff   561B  5 aoû  2017 ns
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 opts
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 pr
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 print
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 reduce
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 require
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 test
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 use
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 when
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 whenl
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/cmake-mode:
+total 104
+drwxr-xr-x  15 xxx  staff   480B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 add_executable
+-rw-r--r--   1 xxx  staff   119B  5 aoû  2017 add_library
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 cmake_minimum_required
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 foreach
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   117B  5 aoû  2017 ifelse
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 include
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 macro
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 message
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 option
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 project
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 set
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/conf-unix-mode:
+total 16
+drwxr-xr-x   4 xxx  staff   128B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 section
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/cperl-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/cpp-omnet-mode:
+total 72
+drwxr-xr-x  11 xxx  staff   352B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 EV
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 emit_signal
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 intuniform
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 math
+-rw-r--r--   1 xxx  staff    65B  5 aoû  2017 nan
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 omnet
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 parameter_omnetpp
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 scheduleAt
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 uniform
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/csharp-mode:
+total 136
+drwxr-xr-x  19 xxx  staff   608B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     8B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   171B  5 aoû  2017 attrib
+-rw-r--r--   1 xxx  staff   360B  5 aoû  2017 attrib.1
+-rw-r--r--   1 xxx  staff   783B  5 aoû  2017 attrib.2
+-rw-r--r--   1 xxx  staff   394B  5 aoû  2017 class
+-rw-r--r--   1 xxx  staff   162B  5 aoû  2017 comment
+-rw-r--r--   1 xxx  staff   165B  5 aoû  2017 comment.1
+-rw-r--r--   1 xxx  staff   159B  5 aoû  2017 comment.2
+-rw-r--r--   1 xxx  staff   181B  5 aoû  2017 comment.3
+-rw-r--r--   1 xxx  staff   151B  5 aoû  2017 fore
+-rw-r--r--   1 xxx  staff   335B  5 aoû  2017 method
+-rw-r--r--   1 xxx  staff   140B  5 aoû  2017 namespace
+-rw-r--r--   1 xxx  staff   271B  5 aoû  2017 prop
+-rw-r--r--   1 xxx  staff   144B  5 aoû  2017 region
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 using
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 using.1
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 using.2
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/css-mode:
+total 176
+drwxr-xr-x  24 xxx  staff   768B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 bg
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 bg.1
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 bor
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 cl
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 disp.block
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 disp.inline
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 disp.none
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 ff
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 fs
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 mar.bottom
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 mar.left
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 mar.mar
+-rw-r--r--   1 xxx  staff   132B  5 aoû  2017 mar.margin
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 mar.right
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 mar.top
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 pad.bottom
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 pad.left
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 pad.pad
+-rw-r--r--   1 xxx  staff   135B  5 aoû  2017 pad.padding
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 pad.right
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 pad.top
+-rw-r--r--   1 xxx  staff   151B  5 aoû  2017 v
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/dix-mode:
+total 144
+drwxr-xr-x  20 xxx  staff   640B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   257B  5 aoû  2017 call-macro
+-rw-r--r--   1 xxx  staff   279B  5 aoû  2017 choose
+-rw-r--r--   1 xxx  staff   240B  5 aoû  2017 clip
+-rw-r--r--   1 xxx  staff   338B  5 aoû  2017 e-in-mono-section
+-rw-r--r--   1 xxx  staff   209B  5 aoû  2017 e-in-pardef
+-rw-r--r--   1 xxx  staff   208B  5 aoû  2017 let
+-rw-r--r--   1 xxx  staff   210B  5 aoû  2017 lit
+-rw-r--r--   1 xxx  staff   223B  5 aoû  2017 lit-tag
+-rw-r--r--   1 xxx  staff   232B  5 aoû  2017 otherwise
+-rw-r--r--   1 xxx  staff   223B  5 aoû  2017 p
+-rw-r--r--   1 xxx  staff   309B  5 aoû  2017 par
+-rw-r--r--   1 xxx  staff   911B  5 aoû  2017 pardef
+-rw-r--r--   1 xxx  staff   388B  5 aoû  2017 s
+-rw-r--r--   1 xxx  staff   226B  5 aoû  2017 sdef
+-rw-r--r--   1 xxx  staff   401B  5 aoû  2017 section
+-rw-r--r--   1 xxx  staff   210B  5 aoû  2017 var
+-rw-r--r--   1 xxx  staff   212B  5 aoû  2017 when
+-rw-r--r--   1 xxx  staff   224B  5 aoû  2017 with-param
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/elixir-mode:
+total 200
+drwxr-xr-x  27 xxx  staff   864B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 call
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 cast
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 cond
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 defmacro
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 defmacrop
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 defmodule
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 defp
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 do
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 doc
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 fn
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   135B  5 aoû  2017 hcall
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 hcast
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 hinfo
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 io
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 iop
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 mdoc
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 pry
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 test
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 unless
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/emacs-lisp-mode:
+total 1248
+drwxr-xr-x  158 xxx  staff   4,9K  5 aoû  2017 .
+drwxr-xr-x   77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--    1 xxx  staff   315B  5 aoû  2017 .read_me
+-rw-r--r--    1 xxx  staff   154B  5 aoû  2017 add-hook
+-rw-r--r--    1 xxx  staff    77B  5 aoû  2017 and
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 append
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 apply
+-rw-r--r--    1 xxx  staff    90B  5 aoû  2017 aref
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 aset
+-rw-r--r--    1 xxx  staff    88B  5 aoû  2017 assq
+-rw-r--r--    1 xxx  staff   155B  5 aoû  2017 autoload
+-rw-r--r--    1 xxx  staff   108B  5 aoû  2017 backward-char
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 beginning-of-line
+-rw-r--r--    1 xxx  staff   144B  5 aoû  2017 bounds-of-thing-at-point
+-rw-r--r--    1 xxx  staff   115B  5 aoû  2017 buffer-file-name
+-rw-r--r--    1 xxx  staff   121B  5 aoû  2017 buffer-modified-p
+-rw-r--r--    1 xxx  staff   134B  5 aoû  2017 buffer-substring
+-rw-r--r--    1 xxx  staff   178B  5 aoû  2017 buffer-substring-no-properties
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 car
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 cdr
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 concat
+-rw-r--r--    1 xxx  staff    99B  5 aoû  2017 cond
+-rw-r--r--    1 xxx  staff   111B  5 aoû  2017 condition-case
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 cons
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 consp
+-rw-r--r--    1 xxx  staff   114B  5 aoû  2017 const
+-rw-r--r--    1 xxx  staff   162B  5 aoû  2017 copy-directory
+-rw-r--r--    1 xxx  staff   182B  5 aoû  2017 copy-file
+-rw-r--r--    1 xxx  staff   108B  5 aoû  2017 current-buffer
+-rw-r--r--    1 xxx  staff   144B  5 aoû  2017 custom-autoload
+-rw-r--r--    1 xxx  staff   123B  5 aoû  2017 defalias
+-rw-r--r--    1 xxx  staff   137B  5 aoû  2017 defcustom
+-rw-r--r--    1 xxx  staff   130B  5 aoû  2017 define-key
+-rw-r--r--    1 xxx  staff    84B  5 aoû  2017 defsubst
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 defun
+-rw-r--r--    1 xxx  staff    84B  5 aoû  2017 defvar
+-rw-r--r--    1 xxx  staff   102B  5 aoû  2017 delete-char
+-rw-r--r--    1 xxx  staff   144B  5 aoû  2017 delete-directory
+-rw-r--r--    1 xxx  staff   102B  5 aoû  2017 delete-file
+-rw-r--r--    1 xxx  staff   108B  5 aoû  2017 delete-region
+-rw-r--r--    1 xxx  staff   159B  5 aoû  2017 directory-files
+-rw-r--r--    1 xxx  staff   455B  5 aoû  2017 dired.process_marked
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 dolist
+-rw-r--r--    1 xxx  staff   100B  5 aoû  2017 end-of-line
+-rw-r--r--    1 xxx  staff    66B  5 aoû  2017 eq
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 equal
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 error
+-rw-r--r--    1 xxx  staff   129B  5 aoû  2017 ert-deftest
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 expand-file-name
+-rw-r--r--    1 xxx  staff    82B  5 aoû  2017 fboundp
+-rw-r--r--    1 xxx  staff   127B  5 aoû  2017 file-name-directory
+-rw-r--r--    1 xxx  staff   150B  5 aoû  2017 file-name-extension
+-rw-r--r--    1 xxx  staff   136B  5 aoû  2017 file-name-nondirectory
+-rw-r--r--    1 xxx  staff   143B  5 aoû  2017 file-name-sans-extension
+-rw-r--r--    1 xxx  staff   124B  5 aoû  2017 file-relative-name
+-rw-r--r--    1 xxx  staff   578B  5 aoû  2017 file.process
+-rw-r--r--    1 xxx  staff   352B  5 aoû  2017 file.read-lines
+-rw-r--r--    1 xxx  staff    96B  5 aoû  2017 find-file
+-rw-r--r--    1 xxx  staff   574B  5 aoû  2017 find-replace
+-rw-r--r--    1 xxx  staff   102B  5 aoû  2017 format
+-rw-r--r--    1 xxx  staff   105B  5 aoû  2017 forward-char
+-rw-r--r--    1 xxx  staff   105B  5 aoû  2017 forward-line
+-rw-r--r--    1 xxx  staff    81B  5 aoû  2017 funcall
+-rw-r--r--    1 xxx  staff    84B  5 aoû  2017 function
+-rw-r--r--    1 xxx  staff    91B  5 aoû  2017 get
+-rw-r--r--    1 xxx  staff   129B  5 aoû  2017 global-set-key
+-rw-r--r--    1 xxx  staff    96B  5 aoû  2017 goto-char
+-rw-r--r--    1 xxx  staff   121B  5 aoû  2017 grabstring
+-rw-r--r--    1 xxx  staff    94B  5 aoû  2017 grabthing
+-rw-r--r--    1 xxx  staff    74B  5 aoû  2017 hash
+-rw-r--r--    1 xxx  staff    66B  5 aoû  2017 if
+-rw-r--r--    1 xxx  staff    86B  5 aoû  2017 insert
+-rw-r--r--    1 xxx  staff   183B  5 aoû  2017 insert-file-contents
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 interactive
+-rw-r--r--    1 xxx  staff    71B  5 aoû  2017 kbd
+-rw-r--r--    1 xxx  staff   102B  5 aoû  2017 kill-buffer
+-rw-r--r--    1 xxx  staff   135B  5 aoû  2017 lambda
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 length
+-rw-r--r--    1 xxx  staff    98B  5 aoû  2017 let
+-rw-r--r--    1 xxx  staff   136B  5 aoû  2017 line-beginning-position
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 line-end-position
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 list
+-rw-r--r--    1 xxx  staff    99B  5 aoû  2017 looking-at
+-rw-r--r--    1 xxx  staff   136B  5 aoû  2017 make-directory
+-rw-r--r--    1 xxx  staff   127B  5 aoû  2017 make-local-variable
+-rw-r--r--    1 xxx  staff    86B  5 aoû  2017 mapc
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 mapcar
+-rw-r--r--    1 xxx  staff   114B  5 aoû  2017 match-beginning
+-rw-r--r--    1 xxx  staff    96B  5 aoû  2017 match-end
+-rw-r--r--    1 xxx  staff   105B  5 aoû  2017 match-string
+-rw-r--r--    1 xxx  staff    92B  5 aoû  2017 memq
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 message
+-rw-r--r--    1 xxx  staff   467B  5 aoû  2017 minor_mode
+-rw-r--r--    1 xxx  staff    77B  5 aoû  2017 not
+-rw-r--r--    1 xxx  staff    87B  5 aoû  2017 nth
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 null
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 number-to-string
+-rw-r--r--    1 xxx  staff    74B  5 aoû  2017 or
+-rw-r--r--    1 xxx  staff    80B  5 aoû  2017 point
+-rw-r--r--    1 xxx  staff    84B  5 aoû  2017 point-max
+-rw-r--r--    1 xxx  staff    93B  5 aoû  2017 point-min
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 princ
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 print
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 progn
+-rw-r--r--    1 xxx  staff    72B  5 aoû  2017 push
+-rw-r--r--    1 xxx  staff   103B  5 aoû  2017 put
+-rw-r--r--    1 xxx  staff   168B  5 aoû  2017 re-search-backward
+-rw-r--r--    1 xxx  staff   165B  5 aoû  2017 re-search-forward
+-rw-r--r--    1 xxx  staff   112B  5 aoû  2017 region-active-p
+-rw-r--r--    1 xxx  staff   114B  5 aoû  2017 region-beginning
+-rw-r--r--    1 xxx  staff    96B  5 aoû  2017 region-end
+-rw-r--r--    1 xxx  staff   148B  5 aoû  2017 rename-file
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 repeat
+-rw-r--r--    1 xxx  staff   156B  5 aoû  2017 replace-regexp
+-rw-r--r--    1 xxx  staff   224B  5 aoû  2017 replace-regexp-in-string
+-rw-r--r--    1 xxx  staff    81B  5 aoû  2017 require
+-rw-r--r--    1 xxx  staff   102B  5 aoû  2017 save-buffer
+-rw-r--r--    1 xxx  staff   111B  5 aoû  2017 save-excursion
+-rw-r--r--    1 xxx  staff   189B  5 aoû  2017 search-backward
+-rw-r--r--    1 xxx  staff   211B  5 aoû  2017 search-backward-regexp
+-rw-r--r--    1 xxx  staff   186B  5 aoû  2017 search-forward
+-rw-r--r--    1 xxx  staff   208B  5 aoû  2017 search-forward-regexp
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 set
+-rw-r--r--    1 xxx  staff    99B  5 aoû  2017 set-buffer
+-rw-r--r--    1 xxx  staff   126B  5 aoû  2017 set-file-modes
+-rw-r--r--    1 xxx  staff    93B  5 aoû  2017 set-mark
+-rw-r--r--    1 xxx  staff    80B  5 aoû  2017 setq
+-rw-r--r--    1 xxx  staff    97B  5 aoû  2017 should
+-rw-r--r--    1 xxx  staff   147B  5 aoû  2017 skip-chars-backward
+-rw-r--r--    1 xxx  staff   144B  5 aoû  2017 skip-chars-forward
+-rw-r--r--    1 xxx  staff   146B  5 aoû  2017 split-string
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 string
+-rw-r--r--    1 xxx  staff   141B  5 aoû  2017 string-match
+-rw-r--r--    1 xxx  staff   118B  5 aoû  2017 string-to-number
+-rw-r--r--    1 xxx  staff    81B  5 aoû  2017 string=
+-rw-r--r--    1 xxx  staff    81B  5 aoû  2017 stringp
+-rw-r--r--    1 xxx  staff   114B  5 aoû  2017 substring
+-rw-r--r--    1 xxx  staff   139B  5 aoû  2017 thing-at-point
+-rw-r--r--    1 xxx  staff   191B  5 aoû  2017 traverse_dir
+-rw-r--r--    1 xxx  staff    78B  5 aoû  2017 unless
+-rw-r--r--    1 xxx  staff   104B  5 aoû  2017 use-package
+-rw-r--r--    1 xxx  staff   113B  5 aoû  2017 use-package-binding
+-rw-r--r--    1 xxx  staff    86B  5 aoû  2017 vector
+-rw-r--r--    1 xxx  staff    69B  5 aoû  2017 when
+-rw-r--r--    1 xxx  staff    75B  5 aoû  2017 while
+-rw-r--r--    1 xxx  staff    99B  5 aoû  2017 widget-get
+-rw-r--r--    1 xxx  staff   127B  5 aoû  2017 with-current-buffer
+-rw-r--r--    1 xxx  staff   937B  5 aoû  2017 word-or-region
+-rw-r--r--    1 xxx  staff    77B  5 aoû  2017 word_regexp
+-rw-r--r--    1 xxx  staff   480B  5 aoû  2017 x-dired.process_marked
+-rw-r--r--    1 xxx  staff   602B  5 aoû  2017 x-file.process
+-rw-r--r--    1 xxx  staff   377B  5 aoû  2017 x-file.read-lines
+-rw-r--r--    1 xxx  staff   606B  5 aoû  2017 x-find-replace
+-rw-r--r--    1 xxx  staff   151B  5 aoû  2017 x-grabstring
+-rw-r--r--    1 xxx  staff   123B  5 aoû  2017 x-grabthing
+-rw-r--r--    1 xxx  staff   223B  5 aoû  2017 x-traverse_dir
+-rw-r--r--    1 xxx  staff   971B  5 aoû  2017 x-word-or-region
+-rw-r--r--    1 xxx  staff    98B  5 aoû  2017 yes-or-no-p
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/enh-ruby-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/ensime-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    11B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/erc-mode:
+total 16
+drwxr-xr-x   4 xxx  staff   128B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    58B  5 aoû  2017 blist
+-rw-r--r--   1 xxx  staff    58B  5 aoû  2017 help
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/erlang-mode:
+total 168
+drwxr-xr-x  23 xxx  staff   736B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    45B  5 aoû  2017 after
+-rw-r--r--   1 xxx  staff    44B  5 aoû  2017 begin
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 beh
+-rw-r--r--   1 xxx  staff    55B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    60B  5 aoû  2017 compile
+-rw-r--r--   1 xxx  staff    50B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 exp
+-rw-r--r--   1 xxx  staff    53B  5 aoû  2017 fun
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 ifdef
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 ifndef
+-rw-r--r--   1 xxx  staff   119B  5 aoû  2017 imp
+-rw-r--r--   1 xxx  staff    49B  5 aoû  2017 inc
+-rw-r--r--   1 xxx  staff    57B  5 aoû  2017 inc.lib
+-rw-r--r--   1 xxx  staff   118B  5 aoû  2017 loop
+-rw-r--r--   1 xxx  staff   196B  5 aoû  2017 mod
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 rcv
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 rcv.after
+-rw-r--r--   1 xxx  staff    54B  5 aoû  2017 rec
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff    41B  5 aoû  2017 undef
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/f90-mode:
+total 200
+drwxr-xr-x  27 xxx  staff   864B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 bd
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 c
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 ch
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 cx
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 dc
+-rw-r--r--   1 xxx  staff   137B  5 aoû  2017 do
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 dp
+-rw-r--r--   1 xxx  staff   158B  5 aoû  2017 forall
+-rw-r--r--   1 xxx  staff   238B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff   113B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 in
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 inc
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 intr
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 l
+-rw-r--r--   1 xxx  staff   179B  5 aoû  2017 module
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 pa
+-rw-r--r--   1 xxx  staff   190B  5 aoû  2017 program
+-rw-r--r--   1 xxx  staff   249B  5 aoû  2017 puref
+-rw-r--r--   1 xxx  staff   239B  5 aoû  2017 pures
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 re
+-rw-r--r--   1 xxx  staff   224B  5 aoû  2017 subroutine
+-rw-r--r--   1 xxx  staff   170B  5 aoû  2017 until
+-rw-r--r--   1 xxx  staff   167B  5 aoû  2017 where
+-rw-r--r--   1 xxx  staff   166B  5 aoû  2017 while
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 wr
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/faust-mode:
+total 216
+drwxr-xr-x  29 xxx  staff   928B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 button
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 checkbox
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 component
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 declare
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 declareauthor
+-rw-r--r--   1 xxx  staff   231B  5 aoû  2017 declarelicense
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 declarename
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 declareversion
+-rw-r--r--   1 xxx  staff   101B  5 aoû  2017 hbargraph
+-rw-r--r--   1 xxx  staff   291B  5 aoû  2017 header
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 hgroup
+-rw-r--r--   1 xxx  staff   122B  5 aoû  2017 hslider
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 nentry
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 par
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 process
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 processx
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 prod
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 rule
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 seq
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 sum
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 tgroup
+-rw-r--r--   1 xxx  staff   101B  5 aoû  2017 vbargraph
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 vgroup
+-rw-r--r--   1 xxx  staff   122B  5 aoû  2017 vslider
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 with
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/git-commit-mode:
+total 24
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 fixes
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 references
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/go-mode:
+total 216
+drwxr-xr-x  29 xxx  staff   928B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   155B  5 aoû  2017 benchmark
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 const
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 const(
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 dd
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 default
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 else
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 error
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 example
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   137B  5 aoû  2017 forrange
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 func
+-rw-r--r--   1 xxx  staff    64B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 iferr
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 import(
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 lambda
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 map
+-rw-r--r--   1 xxx  staff   204B  5 aoû  2017 parallel_benchmark
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 printf
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 select
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 switch
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 test
+-rw-r--r--   1 xxx  staff   234B  5 aoû  2017 testmain
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 type
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 var
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 var(
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/groovy-mode:
+total 56
+drwxr-xr-x   9 xxx  staff   288B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 class
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 dict
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 println
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 times
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/haskell-mode:
+total 104
+drwxr-xr-x  15 xxx  staff   480B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   177B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 data
+-rw-r--r--   1 xxx  staff    60B  5 aoû  2017 doc
+-rw-r--r--   1 xxx  staff   121B  5 aoû  2017 efix
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 functione
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 instance
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 module
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 new class
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 pragma
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 print
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/html-mode:
+total 184
+drwxr-xr-x  25 xxx  staff   800B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 dd
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 dl
+-rw-r--r--   1 xxx  staff   142B  5 aoû  2017 doctype
+-rw-r--r--   1 xxx  staff    58B  5 aoû  2017 doctype.html5
+-rw-r--r--   1 xxx  staff   167B  5 aoû  2017 doctype.xhtml1
+-rw-r--r--   1 xxx  staff   142B  5 aoû  2017 doctype.xhtml1_1
+-rw-r--r--   1 xxx  staff   161B  5 aoû  2017 doctype.xhtml1_strict
+-rw-r--r--   1 xxx  staff   179B  5 aoû  2017 doctype.xhtml1_transitional
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 dt
+-rw-r--r--   1 xxx  staff   168B  5 aoû  2017 form
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 html
+-rw-r--r--   1 xxx  staff   190B  5 aoû  2017 html.xmlns
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 link.import
+-rw-r--r--   1 xxx  staff   180B  5 aoû  2017 link.stylesheet
+-rw-r--r--   1 xxx  staff   232B  5 aoû  2017 link.stylesheet-ie
+-rw-r--r--   1 xxx  staff   129B  5 aoû  2017 mailto
+-rw-r--r--   1 xxx  staff   169B  5 aoû  2017 meta
+-rw-r--r--   1 xxx  staff   203B  5 aoû  2017 meta.http-equiv
+-rw-r--r--   1 xxx  staff   159B  5 aoû  2017 script.javascript
+-rw-r--r--   1 xxx  staff   167B  5 aoû  2017 script.javascript-src
+-rw-r--r--   1 xxx  staff   166B  5 aoû  2017 textarea
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 th
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/java-mode:
+total 264
+drwxr-xr-x  35 xxx  staff   1,1K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 apr_assert
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 assert
+-rw-r--r--   1 xxx  staff   133B  5 aoû  2017 assertEquals
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 cls
+-rw-r--r--   1 xxx  staff   129B  5 aoû  2017 constructor
+-rw-r--r--   1 xxx  staff   156B  5 aoû  2017 define test method
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 doc
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 equals
+-rw-r--r--   1 xxx  staff   188B  5 aoû  2017 file_class
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 fori
+-rw-r--r--   1 xxx  staff   142B  5 aoû  2017 getter
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 iterator
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 javadoc
+-rw-r--r--   1 xxx  staff   112B  5 aoû  2017 lambda
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff   221B  5 aoû  2017 main_class
+-rw-r--r--   1 xxx  staff   142B  5 aoû  2017 method
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 new
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 override
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 param
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 printf
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 println
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 return
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 test
+-rw-r--r--   1 xxx  staff   216B  5 aoû  2017 testClass
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 this
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 toString
+-rw-r--r--   1 xxx  staff   181B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 value
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/js-mode:
+total 160
+drwxr-xr-x  22 xxx  staff   704B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    53B  5 aoû  2017 al
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 class
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 com
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 debugger
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 each
+-rw-r--r--   1 xxx  staff    55B  5 aoû  2017 el
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 ev.add
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 ev.fire
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   128B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 init
+-rw-r--r--   1 xxx  staff    65B  5 aoû  2017 log
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 multiline-comment
+-rw-r--r--   1 xxx  staff   154B  5 aoû  2017 param-comment
+-rw-r--r--   1 xxx  staff   184B  5 aoû  2017 req.html
+-rw-r--r--   1 xxx  staff   147B  5 aoû  2017 req.json
+-rw-r--r--   1 xxx  staff   144B  5 aoû  2017 return-comment
+-rw-r--r--   1 xxx  staff   158B  5 aoû  2017 type-inline-comment
+-rw-r--r--   1 xxx  staff   147B  5 aoû  2017 type-multiline-comment
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/js2-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     8B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/js3-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     8B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/latex-mode:
+total 352
+drwxr-xr-x  46 xxx  staff   1,4K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 acronym
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 alertblock
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 alg
+-rw-r--r--   1 xxx  staff   170B  5 aoû  2017 article
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 begin
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 block
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 capgls
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 caption
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 cite
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 code
+-rw-r--r--   1 xxx  staff   195B  5 aoû  2017 columns
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 documentclass
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 emph
+-rw-r--r--   1 xxx  staff   101B  5 aoû  2017 enumerate
+-rw-r--r--   1 xxx  staff   194B  5 aoû  2017 figure
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 frac
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 frame
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 gls
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 glspl
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 includegraphics
+-rw-r--r--   1 xxx  staff    59B  5 aoû  2017 item
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 itemize
+-rw-r--r--   1 xxx  staff    64B  5 aoû  2017 label
+-rw-r--r--   1 xxx  staff   156B  5 aoû  2017 listing
+-rw-r--r--   1 xxx  staff   247B  5 aoû  2017 moderncv
+-rw-r--r--   1 xxx  staff   146B  5 aoû  2017 moderncv-cvcomputer
+-rw-r--r--   1 xxx  staff   146B  5 aoû  2017 moderncv-cventry
+-rw-r--r--   1 xxx  staff   133B  5 aoû  2017 moderncv-cvlanguage
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 moderncv-cvline
+-rw-r--r--   1 xxx  staff   121B  5 aoû  2017 moderncv-cvlistdoubleitem
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 moderncv-cvlistitem
+-rw-r--r--   1 xxx  staff   355B  5 aoû  2017 movie
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 newcommand
+-rw-r--r--   1 xxx  staff   150B  5 aoû  2017 newglossaryentry
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 note
+-rw-r--r--   1 xxx  staff   134B  5 aoû  2017 python
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 question
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 section
+-rw-r--r--   1 xxx  staff   162B  5 aoû  2017 subf
+-rw-r--r--   1 xxx  staff   257B  5 aoû  2017 subfigure
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 subsec
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 textbf
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 usepackage
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/lisp-interaction-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 defun
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/lisp-mode:
+total 104
+drwxr-xr-x  15 xxx  staff   480B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   140B  5 aoû  2017 class
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 comment
+-rw-r--r--   1 xxx  staff   256B  5 aoû  2017 defpackage
+-rw-r--r--   1 xxx  staff   206B  5 aoû  2017 do
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 foreach
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 format
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   138B  5 aoû  2017 ifelse
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 ifnot
+-rw-r--r--   1 xxx  staff   494B  5 aoû  2017 slot
+-rw-r--r--   1 xxx  staff   159B  5 aoû  2017 switch
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 typecast
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/lua-mode:
+total 88
+drwxr-xr-x  13 xxx  staff   416B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 do
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 eif
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 eife
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 fun
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff   126B  5 aoû  2017 ipairs
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 pairs
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 repeat
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 require
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 while
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/m4-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 def
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/makefile-automake-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 noinst_HEADERS
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/makefile-bsdmake-mode:
+total 40
+drwxr-xr-x   7 xxx  staff   224B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 PHONY
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 echo
+-rw-r--r--   1 xxx  staff   157B  5 aoû  2017 gen
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 var
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/makefile-gmake-mode:
+total 96
+drwxr-xr-x  14 xxx  staff   448B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   140B  5 aoû  2017 abspath
+-rw-r--r--   1 xxx  staff   162B  5 aoû  2017 addprefix
+-rw-r--r--   1 xxx  staff   156B  5 aoû  2017 addsuffix
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 dir
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 make
+-rw-r--r--   1 xxx  staff   137B  5 aoû  2017 notdir
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 patsubst
+-rw-r--r--   1 xxx  staff    64B  5 aoû  2017 phony
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 shell
+-rw-r--r--   1 xxx  staff   146B  5 aoû  2017 special
+-rw-r--r--   1 xxx  staff   237B  5 aoû  2017 template
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 wildcard
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/makefile-mode:
+total 16
+drwxr-xr-x   4 xxx  staff   128B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 all
+-rw-r--r--   1 xxx  staff   160B  5 aoû  2017 clean
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/malabar-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 variable
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/markdown-mode:
+total 184
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 +
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 -
+drwxr-xr-x  25 xxx  staff   800B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 _
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 __
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 `
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 h1.1
+-rw-r--r--   1 xxx  staff   137B  5 aoû  2017 h1.2
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 h2.1
+-rw-r--r--   1 xxx  staff   137B  5 aoû  2017 h2.2
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 h3
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 h4
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 h5
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 h6
+-rw-r--r--   1 xxx  staff   142B  5 aoû  2017 highlight
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 hr.1
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 hr.2
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 img
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 link
+-rw-r--r--   1 xxx  staff   151B  5 aoû  2017 ol
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 rimg
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 rlb
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 rlink
+-rw-r--r--   1 xxx  staff   144B  5 aoû  2017 utf8
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/ned-mode:
+total 64
+drwxr-xr-x  10 xxx  staff   320B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 chan
+-rw-r--r--   1 xxx  staff   114B  5 aoû  2017 connections
+-rw-r--r--   1 xxx  staff   101B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff   146B  5 aoû  2017 network
+-rw-r--r--   1 xxx  staff   118B  5 aoû  2017 simple
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 submodules
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/nesc-mode:
+total 104
+drwxr-xr-x  15 xxx  staff   480B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    17B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 TOSSIM
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 command
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 dbg
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 event
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 ifdef
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 interface
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 module
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 nx
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 provides
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 sim
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 uint8_t
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 uses
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/nix-mode:
+total 96
+drwxr-xr-x  14 xxx  staff   448B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 buildPhase
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 checkPhase
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 configurePhase
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 distPhase
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 fixPhase
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 installCheckPhase
+-rw-r--r--   1 xxx  staff   196B  5 aoû  2017 installPhase
+-rw-r--r--   1 xxx  staff   861B  5 aoû  2017 package_github
+-rw-r--r--   1 xxx  staff   772B  5 aoû  2017 package_url
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 patchPhase
+-rw-r--r--   1 xxx  staff   282B  5 aoû  2017 phases
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 unpackPhase
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/nsis-mode:
+total 96
+drwxr-xr-x  14 xxx  staff   448B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff     9B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 define
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 include
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 insert_macro
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 instdir
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 macro
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 message
+-rw-r--r--   1 xxx  staff    60B  5 aoû  2017 outdir
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 outfile
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 section
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/nxml-mode:
+total 144
+drwxr-xr-x  20 xxx  staff   640B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 body
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 br
+-rw-r--r--   1 xxx  staff   197B  5 aoû  2017 doctype
+-rw-r--r--   1 xxx  staff   216B  5 aoû  2017 doctype_xhtml1_strict
+-rw-r--r--   1 xxx  staff   234B  5 aoû  2017 doctype_xhtml1_transitional
+-rw-r--r--   1 xxx  staff   155B  5 aoû  2017 form
+-rw-r--r--   1 xxx  staff   121B  5 aoû  2017 href
+-rw-r--r--   1 xxx  staff   194B  5 aoû  2017 html
+-rw-r--r--   1 xxx  staff   124B  5 aoû  2017 img
+-rw-r--r--   1 xxx  staff   125B  5 aoû  2017 input
+-rw-r--r--   1 xxx  staff   184B  5 aoû  2017 link
+-rw-r--r--   1 xxx  staff   173B  5 aoû  2017 meta
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 name
+-rw-r--r--   1 xxx  staff   133B  5 aoû  2017 quote
+-rw-r--r--   1 xxx  staff   177B  5 aoû  2017 style
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 tag
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 tag_closing
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 tag_newline
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/octave-mode:
+total 24
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 if
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/org-mode:
+total 80
+drwxr-xr-x  12 xxx  staff   384B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   172B  5 aoû  2017 dot
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 elisp
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 embedded
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 entry
+-rw-r--r--   1 xxx  staff   134B  5 aoû  2017 figure
+-rw-r--r--   1 xxx  staff   143B  5 aoû  2017 img
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 latex
+-rw-r--r--   1 xxx  staff   211B  5 aoû  2017 matrix
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 uml
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 verse
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/perl-mode:
+total 112
+drwxr-xr-x  16 xxx  staff   512B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   138B  5 aoû  2017 eval
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   101B  5 aoû  2017 fore
+-rw-r--r--   1 xxx  staff    58B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff   129B  5 aoû  2017 ifee
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 sub
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 unless
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 while
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 xfore
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 xif
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 xunless
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 xwhile
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/prog-mode:
+total 64
+drwxr-xr-x  10 xxx  staff   320B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   1,2K  5 aoû  2017 .yas-setup.el
+-rw-r--r--   1 xxx  staff   1,8K  5 aoû  2017 .yas-setup.elc
+-rw-r--r--   1 xxx  staff   230B  5 aoû  2017 comment
+-rw-r--r--   1 xxx  staff   2,0K  5 aoû  2017 commentblock
+-rw-r--r--   1 xxx  staff   655B  5 aoû  2017 commentline
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 fixme
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 todo
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 xxx
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/protobuf-mode:
+total 16
+drwxr-xr-x   4 xxx  staff   128B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 message
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 syntax
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/python-mode:
+total 696
+drwxr-xr-x  89 xxx  staff   2,8K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+-rw-r--r--   1 xxx  staff   1,7K  5 aoû  2017 .yas-setup.el
+-rw-r--r--   1 xxx  staff   1,8K  5 aoû  2017 .yas-setup.elc
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 __contains__
+-rw-r--r--   1 xxx  staff   126B  5 aoû  2017 __enter__
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 __exit__
+-rw-r--r--   1 xxx  staff   125B  5 aoû  2017 __getitem__
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 __len__
+-rw-r--r--   1 xxx  staff   170B  5 aoû  2017 __new__
+-rw-r--r--   1 xxx  staff   135B  5 aoû  2017 __setitem__
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 all
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 arg
+-rw-r--r--   1 xxx  staff   121B  5 aoû  2017 arg_positional
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 assert
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 assertEqual
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 assertFalse
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 assertIn
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 assertNotEqual
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 assertNotIn
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 assertRaises
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 assertRaises.with
+-rw-r--r--   1 xxx  staff    94B  5 aoû  2017 assertTrue
+-rw-r--r--   1 xxx  staff   121B  5 aoû  2017 celery_pdb
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 classmethod
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 cls
+-rw-r--r--   1 xxx  staff   229B  5 aoû  2017 dec
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 deftest
+-rw-r--r--   1 xxx  staff   149B  5 aoû  2017 django_test_class
+-rw-r--r--   1 xxx  staff    59B  5 aoû  2017 doc
+-rw-r--r--   1 xxx  staff   119B  5 aoû  2017 doctest
+-rw-r--r--   1 xxx  staff    91B  5 aoû  2017 embed
+-rw-r--r--   1 xxx  staff   133B  5 aoû  2017 eq
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 from
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff   239B  5 aoû  2017 function_docstring
+-rw-r--r--   1 xxx  staff   250B  5 aoû  2017 function_docstring_numpy
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 ifmain
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 import
+-rw-r--r--   1 xxx  staff   139B  5 aoû  2017 init
+-rw-r--r--   1 xxx  staff   173B  5 aoû  2017 init_docstring
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 interact
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 ipdbdebug
+-rw-r--r--   1 xxx  staff   126B  5 aoû  2017 iter
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 lambda
+-rw-r--r--   1 xxx  staff   106B  5 aoû  2017 list
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 logger_name
+-rw-r--r--   1 xxx  staff   132B  5 aoû  2017 logging
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 metaclass
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 method
+-rw-r--r--   1 xxx  staff   179B  5 aoû  2017 method_docstring
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 not_impl
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 np
+-rw-r--r--   1 xxx  staff   195B  5 aoû  2017 parse_args
+-rw-r--r--   1 xxx  staff   128B  5 aoû  2017 parser
+-rw-r--r--   1 xxx  staff    56B  5 aoû  2017 pass
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 pl
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 print
+-rw-r--r--   1 xxx  staff   304B  5 aoû  2017 prop
+-rw-r--r--   1 xxx  staff   111B  5 aoû  2017 reg
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 repr
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 return
+-rw-r--r--   1 xxx  staff   126B  5 aoû  2017 scls
+-rw-r--r--   1 xxx  staff   141B  5 aoû  2017 script
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 self
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 self_without_dot
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 selfassign
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 setdef
+-rw-r--r--   1 xxx  staff   255B  5 aoû  2017 setup
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 size
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 static
+-rw-r--r--   1 xxx  staff   105B  5 aoû  2017 str
+-rw-r--r--   1 xxx  staff   189B  5 aoû  2017 super
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 test_class
+-rw-r--r--   1 xxx  staff   176B  5 aoû  2017 test_file
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 trace
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 tryelse
+-rw-r--r--   1 xxx  staff   112B  5 aoû  2017 unicode
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 unicode_literals
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 utf8
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 while
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 with
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 with_statement
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/rst-mode:
+total 184
+drwxr-xr-x  25 xxx  staff   800B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   107B  5 aoû  2017 autoclass
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 autofunction
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 automodule
+-rw-r--r--   1 xxx  staff   129B  5 aoû  2017 chapter
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 class
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 code
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 digraph
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 graph
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 graphviz
+-rw-r--r--   1 xxx  staff   145B  5 aoû  2017 image
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 inheritance
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 literal_include
+-rw-r--r--   1 xxx  staff    64B  5 aoû  2017 meta
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 module
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 parsed_literal
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 pause
+-rw-r--r--   1 xxx  staff   128B  5 aoû  2017 section
+-rw-r--r--   1 xxx  staff    66B  5 aoû  2017 term
+-rw-r--r--   1 xxx  staff   175B  5 aoû  2017 title
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 url
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 verbatim
+-rw-r--r--   1 xxx  staff    74B  5 aoû  2017 warning
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/ruby-mode:
+total 464
+-rw-r--r--   1 xxx  staff    40B  5 aoû  2017 #
+drwxr-xr-x  60 xxx  staff   1,9K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    72B  5 aoû  2017 =b
+-rw-r--r--   1 xxx  staff   112B  5 aoû  2017 Comp
+-rw-r--r--   1 xxx  staff   140B  5 aoû  2017 Enum
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 GLOB
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 all
+-rw-r--r--   1 xxx  staff    95B  5 aoû  2017 am
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 any
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 app
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 attribute
+-rw-r--r--   1 xxx  staff   148B  5 aoû  2017 bench
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 bm
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 cla
+-rw-r--r--   1 xxx  staff   352B  5 aoû  2017 cls
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 collect
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 dee
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 deli
+-rw-r--r--   1 xxx  staff    75B  5 aoû  2017 det
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 dow
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 ea
+-rw-r--r--   1 xxx  staff    98B  5 aoû  2017 eac
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 eai
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 eav
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 eawi
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 forin
+-rw-r--r--   1 xxx  staff   220B  5 aoû  2017 formula
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff    96B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 inc
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 init
+-rw-r--r--   1 xxx  staff   112B  5 aoû  2017 inject
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 map
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 mm
+-rw-r--r--   1 xxx  staff   431B  5 aoû  2017 mod
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 pry
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 r
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 rb
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 red
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 reject
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 rel
+-rw-r--r--   1 xxx  staff    56B  5 aoû  2017 req
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 rw
+-rw-r--r--   1 xxx  staff    83B  5 aoû  2017 select
+-rw-r--r--   1 xxx  staff    55B  5 aoû  2017 str
+-rw-r--r--   1 xxx  staff   113B  5 aoû  2017 test class
+-rw-r--r--   1 xxx  staff    77B  5 aoû  2017 tim
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 to_
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 tu
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 until
+-rw-r--r--   1 xxx  staff    88B  5 aoû  2017 upt
+-rw-r--r--   1 xxx  staff    63B  5 aoû  2017 w
+-rw-r--r--   1 xxx  staff    79B  5 aoû  2017 when
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 while
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 y
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 zip
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/rust-mode:
+total 352
+drwxr-xr-x  46 xxx  staff   1,4K  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 allow
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 allow!
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 assert
+-rw-r--r--   1 xxx  staff   119B  5 aoû  2017 asserteq
+-rw-r--r--   1 xxx  staff   104B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 cfg
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 cfg=
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 closure
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 deny
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 deny!
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 derive
+-rw-r--r--   1 xxx  staff   159B  5 aoû  2017 drop
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 enum
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 fn
+-rw-r--r--   1 xxx  staff   115B  5 aoû  2017 fnr
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 fns
+-rw-r--r--   1 xxx  staff   151B  5 aoû  2017 fnw
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff   130B  5 aoû  2017 ifl
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 impl
+-rw-r--r--   1 xxx  staff   119B  5 aoû  2017 implt
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 let
+-rw-r--r--   1 xxx  staff   118B  5 aoû  2017 letm
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 lett
+-rw-r--r--   1 xxx  staff   136B  5 aoû  2017 lettm
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 loop
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 macro
+-rw-r--r--   1 xxx  staff    86B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 match
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 print
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 println
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 spawn
+-rw-r--r--   1 xxx  staff   120B  5 aoû  2017 static
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 struct
+-rw-r--r--   1 xxx  staff   116B  5 aoû  2017 test
+-rw-r--r--   1 xxx  staff   168B  5 aoû  2017 testmod
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 trait
+-rw-r--r--   1 xxx  staff   110B  5 aoû  2017 type
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 warn
+-rw-r--r--   1 xxx  staff    84B  5 aoû  2017 warn!
+-rw-r--r--   1 xxx  staff   109B  5 aoû  2017 while
+-rw-r--r--   1 xxx  staff   143B  5 aoû  2017 whilel
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/scala-mode:
+total 128
+drwxr-xr-x  18 xxx  staff   576B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   168B  5 aoû  2017 app
+-rw-r--r--   1 xxx  staff   129B  5 aoû  2017 case
+-rw-r--r--   1 xxx  staff   136B  5 aoû  2017 cc
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 co
+-rw-r--r--   1 xxx  staff   149B  5 aoû  2017 cons
+-rw-r--r--   1 xxx  staff   165B  5 aoû  2017 def
+-rw-r--r--   1 xxx  staff   151B  5 aoû  2017 doc
+-rw-r--r--   1 xxx  staff   132B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff   138B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   131B  5 aoû  2017 ls
+-rw-r--r--   1 xxx  staff   174B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff   155B  5 aoû  2017 match
+-rw-r--r--   1 xxx  staff   152B  5 aoû  2017 ob
+-rw-r--r--   1 xxx  staff   153B  5 aoû  2017 throw
+-rw-r--r--   1 xxx  staff   190B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff   141B  5 aoû  2017 valueclass
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/sh-mode:
+total 64
+drwxr-xr-x  10 xxx  staff   320B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 args
+-rw-r--r--   1 xxx  staff    73B  5 aoû  2017 bang
+-rw-r--r--   1 xxx  staff    99B  5 aoû  2017 for loop
+-rw-r--r--   1 xxx  staff    89B  5 aoû  2017 function
+-rw-r--r--   1 xxx  staff    90B  5 aoû  2017 if
+-rw-r--r--   1 xxx  staff   102B  5 aoû  2017 ife
+-rw-r--r--   1 xxx  staff   132B  5 aoû  2017 safe-bang
+-rw-r--r--   1 xxx  staff    92B  5 aoû  2017 while
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/snippet-mode:
+total 48
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 cont
+-rw-r--r--   1 xxx  staff    58B  5 aoû  2017 elisp
+-rw-r--r--   1 xxx  staff   123B  5 aoû  2017 field
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 group
+-rw-r--r--   1 xxx  staff   126B  5 aoû  2017 mirror
+-rw-r--r--   1 xxx  staff   236B  5 aoû  2017 vars
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/sql-mode:
+total 56
+drwxr-xr-x   9 xxx  staff   288B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   159B  5 aoû  2017 column
+-rw-r--r--   1 xxx  staff   189B  5 aoû  2017 constraint
+-rw-r--r--   1 xxx  staff   189B  5 aoû  2017 constraint.1
+-rw-r--r--   1 xxx  staff   259B  5 aoû  2017 create
+-rw-r--r--   1 xxx  staff   203B  5 aoû  2017 create.1
+-rw-r--r--   1 xxx  staff   127B  5 aoû  2017 insert
+-rw-r--r--   1 xxx  staff   143B  5 aoû  2017 references
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/terraform-mode:
+total 16
+drwxr-xr-x   4 xxx  staff   128B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 resource
+-rw-r--r--   1 xxx  staff   103B  5 aoû  2017 variable
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/text-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    17B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/tuareg-mode:
+total 160
+drwxr-xr-x  22 xxx  staff   704B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    65B  5 aoû  2017 assert
+-rw-r--r--   1 xxx  staff    64B  5 aoû  2017 docstring
+-rw-r--r--   1 xxx  staff    80B  5 aoû  2017 for
+-rw-r--r--   1 xxx  staff    71B  5 aoû  2017 fun
+-rw-r--r--   1 xxx  staff    70B  5 aoû  2017 guard
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 ifthen
+-rw-r--r--   1 xxx  staff    97B  5 aoû  2017 ifthenelse
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 let
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 list_comprehension
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 main
+-rw-r--r--   1 xxx  staff   108B  5 aoû  2017 match
+-rw-r--r--   1 xxx  staff   156B  5 aoû  2017 module
+-rw-r--r--   1 xxx  staff    68B  5 aoû  2017 open
+-rw-r--r--   1 xxx  staff    93B  5 aoû  2017 printf
+-rw-r--r--   1 xxx  staff    87B  5 aoû  2017 rec
+-rw-r--r--   1 xxx  staff    82B  5 aoû  2017 try
+-rw-r--r--   1 xxx  staff   100B  5 aoû  2017 type
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 type_type
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 val
+-rw-r--r--   1 xxx  staff    85B  5 aoû  2017 while
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/typerex-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    12B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/udev-mode:
+total 48
+drwxr-xr-x   8 xxx  staff   256B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 ENV
+-rw-r--r--   1 xxx  staff    78B  5 aoû  2017 GOTO
+-rw-r--r--   1 xxx  staff    67B  5 aoû  2017 KERNEL
+-rw-r--r--   1 xxx  staff    69B  5 aoû  2017 add
+-rw-r--r--   1 xxx  staff    62B  5 aoû  2017 env$
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 run
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/web-mode:
+total 8
+drwxr-xr-x   3 xxx  staff    96B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    10B  5 aoû  2017 .yas-parents
+
+/Users/xxx/.emacs.d//elpa/yasnippet-20170723.1530/snippets/yaml-mode:
+total 24
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwxr-xr-x  77 xxx  staff   2,4K  5 aoû  2017 ..
+-rw-r--r--   1 xxx  staff    81B  5 aoû  2017 entry
+-rw-r--r--   1 xxx  staff    61B  5 aoû  2017 list
+-rw-r--r--   1 xxx  staff    76B  5 aoû  2017 section
+
+/Users/xxx/.emacs.d//elpa/zenburn-theme-20170511.1337:
+total 184
+drwxr-xr-x   5 xxx  staff   160B  5 aoû  2017 .
+drwx--x--x  32 xxx  staff   1,0K  7 aoû  2017 ..
+-rw-r--r--   1 xxx  staff   615B  5 aoû  2017 zenburn-theme-autoloads.el
+-rw-r--r--   1 xxx  staff   223B  5 aoû  2017 zenburn-theme-pkg.el
+-rw-r--r--   1 xxx  staff    82K  5 aoû  2017 zenburn-theme.el
+
+/Users/xxx/.emacs.d//lisp:
+total 0
+drwxr-xr-x   2 xxx  staff    64B  6 déc  2016 .
+drwx------  14 xxx  staff   448B 10 aoû 18:20 ..
+
+/Users/xxx/.emacs.d//python-mode.el-6.2.1:
+total 1984
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 .
+drwx------  14 xxx  staff   448B 10 aoû 18:20 ..
+-rw-------   1 xxx  staff   543B  2 oct  2015 INSTALL
+-rw-------   1 xxx  staff   1,0K  2 oct  2015 INSTALL-INFO-FILES
+-rw-------   1 xxx  staff    34K 27 aoû  2012 LICENSE
+-rw-------   1 xxx  staff    36K  2 oct  2015 NEWS
+-rw-------   1 xxx  staff   385B  2 oct  2015 PKG-INFO
+-rw-------   1 xxx  staff   2,3K  2 oct  2015 README_DEVEL.org
+-rw-------   1 xxx  staff   1,4K  2 oct  2015 byte-compile-directory.sh
+drwx--x--x   7 xxx  staff   224B  2 oct  2015 completion
+drwx--x--x   7 xxx  staff   224B 14 déc  2015 doc
+drwx--x--x   4 xxx  staff   128B  2 oct  2015 extensions
+-rw-------   1 xxx  staff   894K  2 oct  2015 python-mode.el
+-rw-------   1 xxx  staff   484B  2 oct  2015 setup.py
+drwx--x--x   9 xxx  staff   288B  2 oct  2015 test
+
+/Users/xxx/.emacs.d//python-mode.el-6.2.1/completion:
+total 144
+drwx--x--x   7 xxx  staff   224B  2 oct  2015 .
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 ..
+-rw-------   1 xxx  staff   1,6K  2 oct  2015 auto-complete-pycomplete.el
+-rw-------   1 xxx  staff   2,8K  2 oct  2015 company-pycomplete.el
+-rw-------   1 xxx  staff    18K  2 oct  2015 pycomplete.el
+-rw-------   1 xxx  staff    29K  2 oct  2015 pycomplete.py
+-rwx--x--x   1 xxx  staff   9,0K  2 oct  2015 test_pycomplete.py
+
+/Users/xxx/.emacs.d//python-mode.el-6.2.1/doc:
+total 1200
+-rw-------   1 xxx  staff   165K 14 déc  2015 #commands-python-mode.org#
+drwx--x--x   7 xxx  staff   224B 14 déc  2015 .
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 ..
+-rw-------   1 xxx  staff   165K  2 oct  2015 commands-python-mode.org
+-rw-------   1 xxx  staff   193K  2 oct  2015 commands-python-mode.rst
+-rw-------   1 xxx  staff    29K  2 oct  2015 variables-python-mode.org
+-rw-------   1 xxx  staff    32K  2 oct  2015 variables-python-mode.rst
+
+/Users/xxx/.emacs.d//python-mode.el-6.2.1/extensions:
+total 40
+drwx--x--x   4 xxx  staff   128B  2 oct  2015 .
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 ..
+-rw-------   1 xxx  staff    10K  2 oct  2015 column-marker.el
+-rw-------   1 xxx  staff   4,0K  2 oct  2015 highlight-indentation.el
+
+/Users/xxx/.emacs.d//python-mode.el-6.2.1/test:
+total 928
+drwx--x--x   9 xxx  staff   288B  2 oct  2015 .
+drwx--x--x  15 xxx  staff   480B  2 oct  2015 ..
+-rw-------   1 xxx  staff    83K 27 aoû  2012 doctest-mode.el
+-rw-------   1 xxx  staff   3,4K 27 aoû  2012 pars-part-output.el
+-rw-------   1 xxx  staff   251K  2 oct  2015 py-bug-numbered-tests.el
+-rw-------   1 xxx  staff   4,9K  2 oct  2015 py-shell-completion-tests.el
+-rw-------   1 xxx  staff    84K  2 oct  2015 python-mode-test.el
+-rwx--x--x   1 xxx  staff    21K 20 aoû  2015 python-mode-tests.sh
+-rw-------   1 xxx  staff   1,6K 27 aoû  2012 test-triple-strings.py
+
+/Users/xxx/.emacs.d//snippets:
+total 0
+drwxr-xr-x   2 xxx  staff    64B  5 aoû  2017 .
+drwx------  14 xxx  staff   448B 10 aoû 18:20 ..
